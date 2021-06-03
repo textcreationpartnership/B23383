@@ -1,0 +1,3258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ayres and dialogues for one, two, and three voyces to be sung either to the theorbo-lute or basse-viol / composed by John Gamble. The second book.</title>
+            <title>Ayres and dialogues. Book 2</title>
+            <author>Gamble, John, d. 1687.</author>
+         </titleStmt>
+         <extent>Approx. 121KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23383</idno><idno type="EEBO-CITATION">12143635</idno>
+  <idno type="VID">199495</idno>
+  <idno type="EEBO-PROQUEST">2248565590</idno>
+  
+            <idno type="STC">Wing G185</idno>
+            <idno type="OCLC">12143635</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199495)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 597:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ayres and dialogues for one, two, and three voyces to be sung either to the theorbo-lute or basse-viol / composed by John Gamble. The second book.</title>
+                  <title>Ayres and dialogues. Book 2</title>
+                  <author>Gamble, John, d. 1687.</author>
+               </titleStmt>
+               <extent>1 score ([9], 84, [1] p.) : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid for Nathaniel Ekin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Songs, English.</term>
+               <term type="topical_term">Songs with lute.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:199495:1"/>
+            <p>
+               <figure>
+                  <head>VERA EFFIGIES IOANNIS GAMBLE PHILOMUSICI<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:199495:1"/>
+            <p>AYRES AND DIALOGUES For One, Two, and Three Voyces; To be Sung either to the <hi>THEORBO-LƲTE</hi> or <hi>BASSE-VIOL.</hi>
+            </p>
+            <p>Composed by JOHN GAMBLE.</p>
+            <q>
+               <bibl>Horat. Ode XI. lib. III.</bibl>
+               <l>
+                  <hi>Movit Amphion Lapides Canendo.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>The Second Book.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid</hi> for <hi>Nathaniel Ekin</hi> at the <hi>Gun</hi> in St. <hi>Pauls Church-yard.</hi> 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:199495:2"/>
+            <pb facs="tcp:199495:2"/>
+            <head>To the Right Honourable <hi>CHARLES CAVENDISH,</hi> Viscount <hi>MANSFIELD.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Know the little you have of Leisure to be conserned in <hi>Private Addresses:</hi> But <hi>Hecatombs</hi> not alwayes so take up the <hi>Altar,</hi> but it may admit his <hi>necessi<g ref="char:EOLhyphen"/>tous Devotion,</hi> that can but <hi>warm</hi> it with a little <hi>Frankincense.</hi> I have therefore presum'd (amongst the <hi>louder Solemnities</hi>) to lay before you this <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> of <hi>Duty,</hi> for the <hi>Favours</hi> (I have sometimes received from your <hi>Family</hi>) exact the <hi>Tribute</hi> of all my Services.</p>
+            <p>I have brought you (my Lord) a <hi>Variety</hi> of <hi>Voyces;</hi> but all <hi>Tun'd Uni-on</hi> to implore your <hi>Patronage:</hi> If you vouchsafe them the <hi>Honour</hi> of <hi>Protection,</hi> they will not fear to fetch a <hi>Pedigree</hi> from Heaven, and find themselves of <hi>Kindred</hi> with <hi>Stars:</hi> They are the <hi>Younger Daughters</hi> of <hi>Musick,</hi> and may perhaps have an <hi>Ayre</hi> of the <hi>Mother;</hi> But however (my Lord) they are <hi>Titled</hi> as <hi>Princesses,</hi> they will not forget to <hi>wait</hi> your <hi>Hand-mayds.</hi> If I may have had less <hi>Fortune</hi> in <hi>Choice,</hi> I shall find a satisfaction in the <hi>Endevour</hi> of <hi>Gratitude;</hi> and I had rather be wanting in some<g ref="char:EOLhyphen"/>thing of <hi>Circumstance,</hi> then not at all confess my <hi>Acknowledge<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>Where these <hi>Compositions</hi> appear not <hi>Genuine,</hi> they must not hope my <hi>now Reconcilement;</hi> the all that can contribute to their <hi>Harmony,</hi> is (my Lord) your <hi>Voyce</hi> in Pardon of</p>
+            <closer>
+               <signed>Your Honours, with all obedience devoted Servant, JOHN GAMBLE.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:199495:3"/>
+            <head>To his Good Friend Mr. JOHN GAMBLE on his COMPOSITIONS.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>EAch Poet now to his own words</l>
+               <l>(With merit) Admiration brings,</l>
+               <l>And as thou dost divide the Chords,</l>
+               <l>Is led thy Captive in the Strings:</l>
+               <l>Rapt with a Musick more then dwels</l>
+               <l>In Numerous falling Syllables.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>He thinks his Sonnet now a Charm,</l>
+               <l>And that 'tis safe to shut the Ear;</l>
+               <l>But that he fears the greater harm</l>
+               <l>Would be, to be debarr'd to hear:</l>
+               <l>Then doth the Antick Proverb mock,</l>
+               <l>And <hi>Syrens</hi> find without a Rock.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Sure Harmony thee through hath Lin'd</l>
+               <l>And all thy <hi>Organs</hi> doth inspire;</l>
+               <l>That <hi>(Instruments)</hi> one way inclin'd,</l>
+               <l>Do from their Functions breath in Quire:</l>
+               <l>At least thy Brest hath Tuned been,</l>
+               <l>And all the <hi>Fibra</hi>'s Chime within.</l>
+            </lg>
+            <closer>
+               <signed>ELDRED REVET.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:199495:3"/>
+            <head>To his Honest Friend and Old Acquaintance Mr. JOHN GAMBLE; upon his Musical Compositions, on several Poems.</head>
+            <lg>
+               <l>LEt the dull <hi>Drum</hi> and shril <hi>Fife</hi> silent be,</l>
+               <l>Whilst we attend his Vocal Harmonie;</l>
+               <l>Where <hi>Word</hi> and <hi>Note</hi> in Complication roll,</l>
+               <l>Like twisted Twylight, or the <hi>Sense</hi> and <hi>Soul:</hi>
+               </l>
+               <l>Here each insinuating <hi>Note</hi> doth grow</l>
+               <l>One with the <hi>Word</hi> as waters mix and flow;</l>
+               <l>A well form'd freeborn Fancy may from hence</l>
+               <l>Hear the <hi>Word</hi> sing, and every <hi>Note</hi> speak sense:</l>
+               <l>They both consent as <hi>Lovers</hi> woo by <hi>winks</hi>
+               </l>
+               <l>When <hi>thoughts</hi> agree, <hi>One</hi> speaks what <hi>th' other</hi> thinks;</l>
+               <l>The sliding <hi>Notes</hi> so intricately creep,</l>
+               <l>Some times you'd think, they <hi>howl, sing, smile</hi> and <hi>weep:</hi>
+               </l>
+               <l>The lineaments of <hi>Passions</hi> are here drawn</l>
+               <l>As visibly as pictures behind lawn;</l>
+               <l>In these few Amorets is all compact</l>
+               <l>The Sense can suffer, or the Soul can act:</l>
+               <l>The <hi>Ayre</hi> and language grow as much the same,</l>
+               <l>As several materials make one <hi>flame;</hi>
+               </l>
+               <l>With so much aptitude and prompt connexion,</l>
+               <l>As <hi>red</hi> and <hi>white</hi> comply in a Complexion.</l>
+            </lg>
+            <lg>
+               <l>Love-Songs will make you sigh when you come near 'em,</l>
+               <l>And Tavern Toyes make Creeples dance to hear 'em:</l>
+               <l>Where like some straight, although indented border,</l>
+               <l>Each reeling Note doth stagger into order.</l>
+            </lg>
+            <lg>
+               <l>He that dislikes this Piece, must (it appears)</l>
+               <l>Confess he wants both <hi>Intelect</hi> and <hi>Ears;</hi>
+               </l>
+               <l>And may most properly be ranck'd with they</l>
+               <l>Who verily can neither <hi>Sing</hi> nor <hi>Say.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>THOMAS JORDAN.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:199495:4"/>
+            <head>
+               <hi>A DEFENCE FOR MUSICK</hi> In its Practique and Theorie, occasioned upon the Publication of these Poems Composed by <hi>Mr. JOHN GAMBLE:</hi> IMPLORATION.</head>
+            <l>
+               <hi>EMpress</hi> of <hi>Order!</hi> Whose Eternal Arms</l>
+            <l>Put <hi>Chaos</hi> into <hi>Concord,</hi> by whose Charms</l>
+            <l>The <hi>Cherubims</hi> in <hi>Anthems</hi> clear, and Even,</l>
+            <l>Create a Consort for the King of Heaven:</l>
+            <l>Inspire me with thy Magick, that my Numbers</l>
+            <l>May rock the never-sleeping Soul in slumbers;</l>
+            <l>Tune up my <hi>Lyre,</hi> that when I sing thy Merits</l>
+            <l>My subdivided Notes may sprinkle Spirits</l>
+            <l>Into my Auditoty, whilest their fears</l>
+            <l>Suggest their Souls are sallying through their Ears.</l>
+            <l>What Tropes, or Figures can thy Glories reach,</l>
+            <l>That art thy self the splendor of all Speech?</l>
+            <l>
+               <hi>Mysterious Musick!</hi> he that doth thee right</l>
+            <l>Must shew thy Excellence by thy own Light:</l>
+            <l>Thy Purity must teach us how to Praise,</l>
+            <l>As men seek out the Sun with his own Rayes:</l>
+            <l>What Creature that hath being, life or sense,</l>
+            <l>But wares the Badges of thy Influence?</l>
+            <l>
+               <hi>Musick</hi> is <hi>Harmony,</hi> whose Copious bounds</l>
+            <l>Is not confined onely unto Sounds:</l>
+            <l>'Tis the Eyes object, for (without Extortion)</l>
+            <l>It comprehends All things that have <hi>Proportion:</hi>
+            </l>
+            <l>
+               <hi>Musick</hi> is <hi>Concord,</hi> and doth hold allusion</l>
+            <l>With every thing that doth oppose Confusion:</l>
+            <l>In Comely Architecture it may be</l>
+            <l>Known by the Name of <hi>Ʋniformitie;</hi>
+            </l>
+            <l>Where <hi>Piramids</hi> to <hi>Piramids</hi> relate,</l>
+            <l>And the whole Fabrick doth Configurate</l>
+            <l>In perfectly proportion'd Creatures, we</l>
+            <l>Accept it by the title <hi>Symmetrie.</hi>
+            </l>
+            <l>When many Men for some design Convent,</l>
+            <l>And all Concenter, It is call'd <hi>Consent:</hi>
+            </l>
+            <l>Where mutual Hearts in Sympathy do move</l>
+            <l>Some few embrace it in the Name of <hi>Love:</hi>
+            </l>
+            <pb facs="tcp:199495:4"/>
+            <l>But when the Soul and Body do agree</l>
+            <l>To serve their God, it is Divinitie:</l>
+            <l>In all melodious <hi>Compositions</hi> we</l>
+            <l>Declare and know it to be <hi>Symphonie:</hi>
+            </l>
+            <l>Where all the Parts in Complication roll,</l>
+            <l>And every one Contributes to the <hi>Whole:</hi>
+            </l>
+            <l>He that can Set and Humour Notes aright</l>
+            <l>Will move the Soul to Sorrow, to Delight,</l>
+            <l>To Courage, Courtezie, to Consolation;</l>
+            <l>To Love, to Gravity, to Contemplation:</l>
+            <l>It hath been known (by its mysterious motion)</l>
+            <l>To raise Repentance, and advance Devotion:</l>
+            <l>It works on all the faculties, and why</l>
+            <l>The very Soul it self is <hi>Harmony:</hi>
+            </l>
+            <l>
+               <hi>Musick!</hi> It is the breath of second Birth,</l>
+            <l>The Saints imployment, and the Angels Mirth;</l>
+            <l>The Rhetorick of <hi>Seraphins,</hi> a Gem</l>
+            <l>In the King's Crown of new <hi>Jerusalem;</hi>
+            </l>
+            <l>They sing Continually, the Exposition</l>
+            <l>Must needs inferre, there is no Intermission.</l>
+            <l>I hear some Men hate <hi>Musick,</hi> let them shew</l>
+            <l>In Holy Writ what else the Angels do:</l>
+            <l>Then those that do despise such sacred Mirth</l>
+            <l>Are neither fit for Heaven nor for Earth.</l>
+            <closer>
+               <signed>THOMAS JORDAN.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:199495:5"/>
+            <head>On the Excellent Compositions of his Good Friend <hi>Mr. JOHN GAMBLE.</hi>
+            </head>
+            <l>HOw are these <hi>Lutes</hi> scru'd up in every String,</l>
+            <l>And temper'd to our ready Fingering?</l>
+            <l>No Nerve is loose here, nor no sinew slack,</l>
+            <l>Nor any so ungently stretcht to crack:</l>
+            <l>Sure none could fit them to so just a Key</l>
+            <l>But <hi>Phebus,</hi> but the Nine would fit to Play▪</l>
+            <l>Where all variety of Notes comply,</l>
+            <l>Lead in one silken thread of Harmony.</l>
+            <closer>
+               <signed>WILLIAM REVET.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:199495:5"/>
+            <head>A Smile.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Ho would not think those rising beams, so temp'rate were, that no extremes attended them, to cloud our day, and our cre╌du╌li╌ty betray? Who would be such a slave to Fear, to think a tempest could be near? So fair an <hi>Omen!</hi> Who'd not dare Danger it self, and anchor there? Who would not think his wealth secure, and safety to himself asure, when such a milde and gentle ray, doth smoth the wrinkles of the day? But oh! it takes the Lightnings form, and I'm betray'd into a Storm. </p>
+         </div>
+         <div type="song">
+            <pb n="2" facs="tcp:199495:6"/>
+            <head>A Tempest.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">H</seg>Elp Love, or else I sink; for know, he best can help that causeth woe; help then, and with thy smoother palm, the fu╌ry of my passion calm: Succeeding tears in billows rise, as there were Seas met in my eyes; My sighes united proudly grown, as the four winds combin'd in one; Hark how they rore, my sighs and tears, sure have conspir'd to tempt my fears; See how they swell, now they are met, and ev'n a tempest do beget; it shakes my Bark, her Ribs do crak, and now my fears a
+<pb n="3" facs="tcp:199495:6"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> wrack: Help Love for pity then I pray, ere my poor heart be cast away. </p>
+         </div>
+         <div type="song">
+            <head>The Rebbel.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">L</seg>Ove! no, I am not such a foe to my peace, prethee cease, say no more, though her Eyes are the skies, where Love flies, and inveagles all the Eagles, that in his aerie sore: I dare not fly in her sky, tis too high, once her frown threw me down so low, that I swore, never more, in a Sun beam to soare, Love and I will each other never know. <stage>[Turn over.]</stage>
+            </p>
+            <pb n="4" facs="tcp:199495:7"/>
+            <p>
+               <label>2 <hi>Vers.</hi>
+               </label>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> He brings such woe with him, nought can exceed 'm; Souls do in sorrow swim,</p>
+            <p>
+               <label>3 <hi>Vers.</hi>
+               </label>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> and tears do feed 'm; that every sense is dim, to peace and freedome: Eye me, try me, can you de╌ny me? thus he betrayes the wise: But if you to his bow do bow, your soul becomes a sacrifice; Fiers, Miers, Brooks and Briers, kinder are than he: Then shake him off with scorn and scoff, sing and drink sack with me.</p>
+         </div>
+         <div type="song">
+            <pb n="5" facs="tcp:199495:7"/>
+            <head>Love Surpris'd</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">O</seg>
+               <hi>Cloris!</hi> 'twas unkindly done, first to invade me with your Eyes; and when my yielding heart was won, then to begin your tyrannies; The generous Lion straight grows meek, and gently spares the fawning Chase, but the submissive wretch may seek in vain for pity from that Face; Where while inchanting <hi>Syrens</hi> sing, th' alured Mariner is wrackt, so whirling gulfs destruction bring, and overwhelm what they attract. </p>
+         </div>
+         <div type="song">
+            <pb n="6" facs="tcp:199495:8"/>
+            <head>Admired Beauty.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg> Am no Pris'ner sure, nor can it be, when such rare Beauty comes to visit me: The free and uncontroled Air's confin'd, more than my mind, when it reflects upon those beams that lately in my prison shon; that glorious Angel which was sent to free the captive Saint, more bright Divinity brought not with him, than in this darksome place, from <hi>Atalanta</hi>'s face brake forth and ravish'd me, with adoration of that De╌i╌tie: Blest <hi>A╌talanta,</hi> may that powerful spring of Beauty
+<pb n="7" facs="tcp:199495:8"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> in thy Cheeks ne'r die, but bring thee more Idolaters: May the faction now see in thy Brow their errors, and repent, that thought it sin to worship such a Saint. </p>
+         </div>
+         <div type="song">
+            <head>On <hi>Celia.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Ere <hi>Celia</hi> but as chaste as fair, how could I kiss the snare, and never be weary of my Captivitie! But she's a Whore that cools my blood; Oh that she were less handsome, or more good. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Would you believe that there can rest</l>
+               <l>Deceit within that Breast,</l>
+               <l>Or that those Eyes</l>
+               <l>Which look like friends are onely spies:</l>
+               <l>But she's a Whore; yet sure I lie.</l>
+               <l>May not their be, degrees of Chastitie.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No, no, what means that wanton smile,</l>
+               <l>But onely to beguile;</l>
+               <l>Thus did the first</l>
+               <l>Of Women make all men accurst;</l>
+               <l>I for their sakes give Women o're,</l>
+               <l>The first was false, the fairest was a Whore.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="8" facs="tcp:199495:9"/>
+            <head>Loves Theft.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">L</seg>Ove still a Child a Bee persues, whose thighs hung with fresh morning dews, perfumes the aire, and alures the Wag, to spoil him for his Honey bag; they grapple, the Bee stings the Elfe, he to his Mother flies to moan himself: She smil'd and sayes, Do not complain my Child, but learn by thy just pain, how many a wretched Lovers heart th' hast stung unjustly with thy Dart; and that till th' hast the grace to be more pitiful, none ought to pity thee. </p>
+         </div>
+         <div type="song">
+            <pb n="9" facs="tcp:199495:9"/>
+            <head>A Calme.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">C</seg>Ease Warring Thoughts, and let his Brain no more discord entertain, but be smooth and calm again; Ye Christal Rivers that are nigh, as your Streams are passing by, teach your murmurs Harmony; Ye Winds that wait upon the Spring, and perfumes to Flowers do bring, let your Amorous whispers here, breath soft Musick to his ear; Ye warbling Nightingals repair from every Wood to charm this air; and with the wonders of your brest, each striving to excel the rest, when it is time to 'wake him, close your Parts, and drop down from the Trees with broken hearts. </p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:199495:10"/>
+            <head>On Man's fraily.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">S</seg>Hort as this Hour, and brittle as that Glass, is Life, whose cares those sands in number pass: If with this present Hour those cares conclude, turn but the Glass, and they are all renew'd: Those sands not much exceed a handful, yet each minute brings a load of griefs with it: Oh! how unhappy is the Reck'ning then betwixt the Sorrow and the Hours of Men? But when Death finds fit time with his pale dart to break Lifes thin walls, and transpeirce the Heart; this Care-stuff'd carcase, in the grave being thrust,
+<pb n="11" facs="tcp:199495:10"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> will moulder, and become a heap of dust. Study this Embleme, and that lets thee see what now thou art, and shalt hereafter be. </p>
+         </div>
+         <div type="song">
+            <head>The <hi>Haymaker</hi>'s Song.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">T</seg>He morning doth wast, to the Medowes lets hast, for the Sun doth with glo╌ry shine on them; the Maidens must Rake whilest the Haycocks we make, then merrily tumble upon them. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>The envy of Court</l>
+               <l>Ne'r aims at our sport,</l>
+               <l>For we live both honest and meanly;</l>
+               <l>Their Ladies are Fine,</l>
+               <l>But to <hi>Venus</hi> encline,</l>
+               <l>And our Lasses are harmless and clenly.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then let us advance</l>
+               <l>Our selves in a dance,</l>
+               <l>And afterwards fall to our labour;</l>
+               <l>No measure so meet</l>
+               <l>Nor Musick so sweet,</l>
+               <l>To us as a Pipe and a Tabor.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="12" facs="tcp:199495:11"/>
+            <head>Advice to <hi>Cloris.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>
+                  <seg rend="decorInit">C</seg>Loris</hi> forbear a while, do not o're-joy me, urge not another smile <hi>
+                  <seg rend="decorInit">C</seg>Loris</hi> forbear a while, <hi>&amp;c.</hi> lest it destroy me: That Beauty pleaseth most, and is best taking, which soon is won, soon lost, kind, yet forsaking: I love a Coming Lady, faith I do, but now and then I'de have her scornful to. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>O're-cloud those Eyes of thine,</l>
+               <l>Boo-peep thy features,</l>
+               <l>Warm with an <hi>April</hi> shine,</l>
+               <l>Scorch not thy Creatures;</l>
+               <l>Still to display thy ware,</l>
+               <l>Still to be fooling,</l>
+               <l>Argues how rude you are</l>
+               <l>In <hi>Cupids</hi> Schooling;</l>
+               <l>Disdain begets a smile, scorn draws us nigh,</l>
+               <l>'Tis cause I would, and cannot, makes me try.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <hi>Cloris</hi> I'de have thee wise</l>
+               <l>When Gallants view thee,</l>
+               <l>And Court do thou dispise,</l>
+               <l>Fly those pursue thee;</l>
+               <l>Fasts move an appetite,</l>
+               <l>Makes hunger greater;</l>
+               <l>Whose stinted of delight</l>
+               <l>Fals to't the better:</l>
+               <l>Be coy and kind by turns, be smooth and rough,</l>
+               <l>And buckle now and then, and that's enough.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="13" facs="tcp:199495:11"/>
+            <head>The Exile.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">H</seg>Ave you observ'd the Hermet when he runs his weary race, without a home like other men, but walks from place to place? Look then on me, whom grief makes tame; my wandring fortunes are the same, known onely by another name. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Or have you seen a helpless man,</l>
+               <l>Pursu'd from Town to Town;</l>
+               <l>Whose guilt from honesty began,</l>
+               <l>And loyalty to th' Crown?</l>
+               <l>'Mongst untrod Thorns have you bin lead,</l>
+               <l>Or seen a tumbl'd Sick-mans B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d?</l>
+               <l>Such places for such faults I tred.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Like him that is confin'd to be,</l>
+               <l>Close Prisoner all his dayes;</l>
+               <l>Or cloy'd with too much libertie,</l>
+               <l>Or banish't sundry wayes:</l>
+               <l>Although my patience scorns to grutch,</l>
+               <l>Yet my intemperate state is such</l>
+               <l>Plagu'd with too little, or too much.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Have you beheld the sick estate</l>
+               <l>Of seperated Doves?</l>
+               <l>So 'tis with mee, so with my Mate,</l>
+               <l>But crueller it proves:</l>
+               <l>Yet why so angry have I been,</l>
+               <l>Since in these latter dayes there's seen,</l>
+               <l>Such difference 'twixt the King and Queen.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But since the Law alowes no Love,</l>
+               <l>And Tyranny so reigns,</l>
+               <l>We will implore the Powers above</l>
+               <l>To ease us of our pains:</l>
+               <l>Then let there be with one intent,</l>
+               <l>Petitions unto <hi>Cupid</hi> sent;</l>
+               <l>Never to call a Parliament.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="14" facs="tcp:199495:12"/>
+            <head>Loves Theft.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">K</seg>Now my Dear Idol <hi>Cloris,</hi> that all zealous, here at thine alter I would prostrate stay; But common morn of every houre jealous, to my disaster brings the Star of day: <hi>Cloris</hi> farewell, Oh! let me dying vanish; day-light is come, my delight hence to banish. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Why with such fi'ry speed incessant driver,</l>
+               <l>Bring'st thou a light that obscures Lovers Skyes,</l>
+               <l>Controul thy Race, keep back thy Beamie-Quiver,</l>
+               <l>What needs more day, then shoots from these fair Eyes.</l>
+               <l>
+                  <hi>Cloris</hi> farewell, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Trusty Night that in favour of close Lovers,</l>
+               <l>Friendly displayes thy securing Veils,</l>
+               <l>Fright back pale Morn; tell her thy shady covers</l>
+               <l>Can light us back to Love's secret assails.</l>
+               <l>
+                  <hi>Cloris</hi> farewell, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Can it be, ye gods, whom I importune,</l>
+               <l>That this dayes birth should make Loves Morning dye?</l>
+               <l>And this first dawn of my yet tender fortune</l>
+               <l>Must it make wings, before fledg'd Night doth fly.</l>
+               <l>
+                  <hi>Cloris</hi> farewel, Oh! let me dying vanish,</l>
+               <l>Day-light is come, my delight hence to banish.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="15" facs="tcp:199495:12"/>
+            <head>A Health to <hi>Bacchus.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">B</seg>Ring us up some Sack and Claret, clean Pipes, and the best Va<g ref="char:EOLhyphen"/>rinus, weel swell our Veins, and wash our Brains, and <hi>Tom</hi> shall smoak his wry nose: Then to <hi>Bacchus</hi> wee with mer╌ry glee, whilest round our Cups are turning, will sacri<g ref="char:EOLhyphen"/>fice this <hi>Indian</hi> Spice on these white Altars burning. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>'Tis nought to Bleed to death Sir,</l>
+               <l>We'l therefore talk no treason;</l>
+               <l>But with this Provission,</l>
+               <l>And Amunition,</l>
+               <l>Beat down the Fort of Reason:</l>
+               <l>Still will we drink,</l>
+               <l>Make our Arms cry clink,</l>
+               <l>Be free without Commanding;</l>
+               <l>Discharge the Can,</l>
+               <l>Till every man</l>
+               <l>Bid good-night too's Understanding.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="16" facs="tcp:199495:13"/>
+            <head>Coyness in Love.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">N</seg>Ay prethee do be Coy, and slight me; I must love, though thou abhor it; thy pretty Niceness doth invite me; scorn me, and I shall love thee for it: That world of Beauty that is in you, Ile overcome like <hi>Alexander;</hi> in Amorous flames I will continue, unsindg'd like any Salamander.</p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Do not be won too soon I prethee,</l>
+               <l>But let mee woe while thou do'st fly mee,</l>
+               <l>'Tis my delight to dally with thee,</l>
+               <l>I'le court thee still if thoul't deny mee;</l>
+               <l>I've fresh supplyes on all occasions</l>
+               <l>Of thoughts as various as your Face is;</l>
+               <l>No Directory for Evasions,</l>
+               <l>Nor will I woe by Common-places.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>My hearts with Antidotes provided,</l>
+               <l>Nor will I dye when you frown on mee;</l>
+               <l>I'm merry when I am derided,</l>
+               <l>Now laugh at mee, I think 'tis on mee:</l>
+               <l>'Tis fancy only makes your pleasures,</l>
+               <l>Nor have they being, but conceited;</l>
+               <l>And when we come to dig those treasures,</l>
+               <l>We see our selves, our selves have cheated.</l>
+            </lg>
+            <lg>
+               <l>Then if thour't minded to destroy me,</l>
+               <l>Love mee much, and love me ever;</l>
+               <l>I'le love the more, so thou may'st slay mee,</l>
+               <l>And I'm thy Martyr then or never.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="17" facs="tcp:199495:13"/>
+            <head>A <hi>Schismatick</hi> in Love.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">M</seg>Istake me not, I am not of that mind, to hate all Women kinde; nor can you so my pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ience Vex, to make my Pen Blaspheme your Sex: Or with my Satyres bite you; yet there are some in your free State, some things in those who are Candidate; that he who Loves, or is himself, must hate; yet I'le not therefore slight you: For I'm a Schismatick in Love, and what makes men adore it? in me does more affection move, I love the better for it. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>I vow I am so far from loving none,</l>
+               <l>That I Love every one;</l>
+               <l>If Fair, or Neat, I must, if Brown she be,</l>
+               <l>She's Lovely, and for sympathie;</l>
+               <l>'Cause we're alike I love her:</l>
+               <l>If Tall, she's Proper; and if Short,</l>
+               <l>She's humble, and I love her for't;</l>
+               <l>Small, Pretty; Fat is pleasant; ev'ry Sort</l>
+               <l>Some gracefull good discover:</l>
+               <l>If Young, she's plyant to the Sport,</l>
+               <l>And though her Visage carry</l>
+               <l>Gray Hairs and wrinkles; yet I'le court,</l>
+               <l>And so turn Antiquary.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Be her Hair Red, be her Lips Gray, or Blew,</l>
+               <l>Or any other hue;</l>
+               <l>Or has she but the Ruins of a Nose,</l>
+               <l>Or but Eye-sockets, Ile Love those;</l>
+               <l>Though Skales, not Skin doth cloath her;</l>
+               <l>Though from her Lungs, the Sent that comes</l>
+               <l>Does Rout her Teeth; out of her Gums</l>
+               <l>Ile count all those for high Encomiums,</l>
+               <l>Nor will I therefore loath her;</l>
+               <l>There are no Rules for Beauty, but</l>
+               <l>'Tis as Fancy makes it,</l>
+               <l>Be you but kind, I'le say you're Fair,</l>
+               <l>And all for truth shall take it.</l>
+            </lg>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="song">
+            <pb n="20" facs="tcp:199495:14"/>
+            <head>Fortune Adored.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">L</seg>Et whining Lovers mag-ni-fie their little gods great Deitie, my Love proof-heart de╌fies his childish dart; nor will I humor any more that Son of a Whore: 'Tis Fortune, Fortune onely I adore. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Then (Sacred Godesse) since I do,</l>
+               <l>Renounce all Deities for you,</l>
+               <l>Be kind and free,</l>
+               <l>Unto your Votarie;</l>
+               <l>Let my condition happy prove,</l>
+               <l>And so much above</l>
+               <l>Men's pity, that it may their envy move.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Or if I am decreed to be,</l>
+               <l>An Object of your Tyranie;</l>
+               <l>Let me not know,</l>
+               <l>What 'tis to Ebb and Flow:</l>
+               <l>Make me no more your Tennis-Ball,</l>
+               <l>But take away all,</l>
+               <l>That I may hope to rise, not fear to fall</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="21" facs="tcp:199495:14"/>
+            <head>Loves Passion.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hat will become of me? I'm all chang'd to a weeping Hospital; my Tongue (which once could speak) can say, nothing but <hi>Ce╌li╌a, Ce╌li╌a:</hi> and <hi>Cupid</hi> too hath made me blind, lest I my stolen Heart should find; thus main'd be<g ref="char:EOLhyphen"/>fore her do I lie, without a Tongue, a Heart, or Eye. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>But see the Miracle, She's kind,</l>
+               <l>And doth my fettered Tongue unbind;</l>
+               <l>The Sun-shine of her Smile doth quite</l>
+               <l>Dispell the Meteors in my Sight;</l>
+               <l>And in an instant I recover</l>
+               <l>Heart enough to serve a Lover:</l>
+               <l>Thus when She list, She can recall</l>
+               <l>My Tongue, my Eyes, my Heart and all.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then (Dearest <hi>Caelia</hi>) let me pay</l>
+               <l>Rent-kisses to thee every day;</l>
+               <l>They are Loves Peppercorns, and shew</l>
+               <l>I'm Tenant of my self to you;</l>
+               <l>Your Favour only must confirm</l>
+               <l>My Title, and enlarge my Term:</l>
+               <l>'Twill me a vast Subsistance give,</l>
+               <l>And you the Honour that I live.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="22" facs="tcp:199495:15"/>
+            <head>Love Enlightned.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Elcom my heart, thou'st fondly stray'd to find content in Widdow, Maid, or Woman-kind; whose wind-like change, now courteous, now perverse, and change their Loves designe, their Heat's a Fire that ne'r decays, but still flames higher. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Their Business Pride, their Beauties shape</l>
+               <l>A Looking-glasse for th'amorous Ape</l>
+               <l>To spend himselfe, and Hours therein;</l>
+               <l>Their Court-ships, Garbes, but Fraud and Sin:</l>
+               <l>Say, say my Heart, Hast not this found,</l>
+               <l>And that there very Kisses wound?</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Yes, yes, my Brest thence (taught) I fly</l>
+               <l>Back from that Syrian Company;</l>
+               <l>Who not lov'd, hate; if lov'd, despise;</l>
+               <l>If had, insult and tyranize:</l>
+               <l>Therefore I add, Blest is his Lot,</l>
+               <l>That will not know, and loves them not.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="23" facs="tcp:199495:15"/>
+            <head>Love decyphered.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">L</seg>Ove, Love I fly thy power, my fearful heart how she may prove arms me against thy Dart; and though I'm ignorant the Knowing say, thy Courtiers have more toilsome Cares then Play; therefore I'le hugg my Cave, and Live alone, and love my Self better for loving none. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>For what is Love, but th'Brat of fond Conceit,</l>
+               <l>Businesse, of Idleness a very Cheat?</l>
+               <l>They pay's our dream'd Eliziums, minutes Joys,</l>
+               <l>With years of perverss Humours, Fear a noyes:</l>
+               <l>Then welcome Cave, where Prayers and Tears shall prove</l>
+               <l>My active Businesse for Celestial Love.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Here calmly pensive pious Thoughts shall be</l>
+               <l>With my good Angell, my choice Companie</l>
+               <l>And Contemplation of those Joys above,</l>
+               <l>As the same fire shall dead the flames of Love;</l>
+               <l>The Spring my Drink, the Hearbs my Meat, this Cave</l>
+               <l>Shall be my Prison, Pallace, Church and Grave.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="24" facs="tcp:199495:16"/>
+            <head>Love disguis'd.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">L</seg>Ove in disguise the other day sought with fly cunning to betray some wandring Heart or other with fair pretence, and Flateries Fine; He came (alas!) and seis'd on mine, but took it for another. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Now in his Chains I fettered lye,</l>
+               <l>But cannot tell for what, or why;</l>
+               <l>No Plaintiffe will declare;</l>
+               <l>Imprisonment I must imbrace</l>
+               <l>For doting on some killing Face</l>
+               <l>That will not now appear.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <hi>Clorinda</hi> too, soon as She heard</l>
+               <l>That I was Tain, had no regard,</l>
+               <l>But cast her Frowns to grieve me;</l>
+               <l>To satisfie her cold Disdain,</l>
+               <l>She lets me still live in my pain,</l>
+               <l>And will no more releive me.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="25" facs="tcp:199495:16"/>
+            <head>Constancy.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">B</seg>Elieve me Love, by those fair Eyes that bless the World with light, and to the blind give sight; by this chast kiss, this pretious breath that rescu'd my poor Heart from death, it still remains thy conquer'd prise! </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>By Vertues felf, Enthron'd in thee,</l>
+               <l>For other Beauties were</l>
+               <l>But th' Figure of what's Rare;</l>
+               <l>No thoughts of change disturb my rest,</l>
+               <l>Whose heats consume, not warm the brest,</l>
+               <l>There's no content like constancie!</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Yet should'st thou not continue mine</l>
+               <l>As firm as when I first</l>
+               <l>Love in my bosome Nurst;</l>
+               <l>I would the Bastard banish thence,</l>
+               <l>Though yet the Child of Innocence,</l>
+               <l>And prove him humane, not divine.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Did not thy fires preserve my flame,</l>
+               <l>It should dispersing fly,</l>
+               <l>Like sparks at every eye</l>
+               <l>With wanton liberty should range,</l>
+               <l>And every minute covet change,</l>
+               <l>Till it disolv'd Loves holy frame</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Then till thy fancy change thy minde,</l>
+               <l>If I without offence</l>
+               <l>May doubt such Innocence?</l>
+               <l>My love shall be so purely free,</l>
+               <l>From loose thoughts of disloyaltie;</l>
+               <l>It shall teach Turtles to be kind.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="26" facs="tcp:199495:17"/>
+            <head>The Cheat.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hit a Pox dost thou muse on? Boy, give us the Wine, the Saint in that shrine must not be prophan'd; the persecuted Sack is the thing we do lack, whose Auspicious slight, makes our heads and hearts light, that the fear of her loss had er'st ty'd up and chain'd. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Not a Relique of her but we ought to adore,</l>
+               <l>And prize it before</l>
+               <l>Those Tell-tales of Time;</l>
+               <l>True, <hi>Ellen</hi> and <hi>Lucy</hi>
+               </l>
+               <l>Were Saints, but not Juicy;</l>
+               <l>And <hi>Winifreds-Well</hi>
+               </l>
+               <l>Bears no sound of a Spell;</l>
+               <l>If it had, some had written her Acts more sublim.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Know the Time will come, Sirrah, as it was of yore,</l>
+               <l>A Dram and no more</l>
+               <l>Must serve such a Clown;</l>
+               <l>Let then hes welcome ring-Boys;</l>
+               <l>'Tis her slight bring us joy Boys,</l>
+               <l>Whose Patience is such</l>
+               <l>She doth not care how much</l>
+               <l>We of her do consume, be but true to the Crown.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>'Tis the flavour of this makes the Miter to stand,</l>
+               <l>The Crown to comand,</l>
+               <l>The Mare-maid to sing;</l>
+               <l>Makes the Motes in the Sun</l>
+               <l>Like to Ganimeds run,</l>
+               <l>The Fleece-Coats with Gold,</l>
+               <l>And the Seaven Stars uphold,</l>
+               <l>'Tis her Influence makes the Twelve Houses to ring,</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Then drink, fall, and adore her, 'tis fit we shoul be</l>
+               <l>More humble then she</l>
+               <l>Hath travel'd for us;</l>
+               <l>Let's the Convoy then bless,</l>
+               <l>And the Merchant no less,</l>
+               <l>To'th Vintner a Health</l>
+               <l>Who from them got by Stealth,</l>
+               <l>This Jem, with intension to barter with us,</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="27" facs="tcp:199495:17"/>
+            <head>To Phelicia.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>
+                  <seg rend="decorInit">P</seg>Phelicia,</hi> since that I find true true to thy self, and just to me, ne'r fear their deposing: For those Repelling Looks of thine must keep thee safe, securely mine, 'gainst our Fates opposing. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>No matter though thy Votaries</l>
+               <l>Complain how thou dost tyranize,</l>
+               <l>And do resolve to storm</l>
+               <l>Thy Beauties Citadell; Be wise,</l>
+               <l>Thou art beyond their subtilties</l>
+               <l>Thus circled in my arme.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Should they with factious force rebell,</l>
+               <l>Their faith and loyalties (too) sell;</l>
+               <l>'Tis what we must expect;</l>
+               <l>For when at first they did pretend</l>
+               <l>A duty, 'twas for their own end,</l>
+               <l>And treachery in effect.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>So such as have desire of power</l>
+               <l>Think other goverment too sower,</l>
+               <l>And preach up libertie;</l>
+               <l>Till they into the stirrup get,</l>
+               <l>And mounted are by others wit</l>
+               <l>It'h place they did defie.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Nay, though they swear they'l make thee far</l>
+               <l>More glorious then the Eastern Star,</l>
+               <l>Know, such as swear will lye;</l>
+               <l>And 't hath been prov'd in tricks of State</l>
+               <l>When they have got as they would ha 't,</l>
+               <l>Now have at all, they cry.</l>
+            </lg>
+            <lg n="6">
+               <head>VI</head>
+               <l>Then dearest, in thine own hands keep</l>
+               <l>That power that will preserve thy sleep</l>
+               <l>Against conspiracie,</l>
+               <l>Let thy majestick frowns repell</l>
+               <l>All trecherous hearts that would rebell,</l>
+               <l>But keep thy smiles for me.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="28" facs="tcp:199495:18"/>
+            <head>The <hi>Presbyters</hi> Gill.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">H</seg>Ang the Presbyters Gill bring a Pint of Sack <hi>Will</hi> more Orthodox of the two; though a slender dispute will strike the Else Mute, he's one of the honester Crew. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>In a Pint there's small heart;</l>
+               <l>Sirrah▪ bring us a Quart;</l>
+               <l>Their's substance and vigour met,</l>
+               <l>'Twill hold us in Play</l>
+               <l>Some part of the Day,</l>
+               <l>But wee'l sink him before Sun-set.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The dating old Pottle</l>
+               <l>Does now bid us Battaile,</l>
+               <l>Let's try what his strength can do;</l>
+               <l>Keep your Ranks, and your Files,</l>
+               <l>And for all his Wiles</l>
+               <l>Wee'l tumble him down Stairs too.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>The Stout Brested Lumbard</l>
+               <l>His Brains ne'r incumbred</l>
+               <l>With drinking of Gallons three,</l>
+               <l>
+                  <hi>Trycongius</hi> was named,</l>
+               <l>And by <hi>Caesar</hi> Famed,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho dubbed him Knight Cap-a-pe.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>If then Honour be in't,</l>
+               <l>Why a Pox should we slint</l>
+               <l>Our selves of the fulness it bears?</l>
+               <l>H'has less Wit than an Ape</l>
+               <l>In the Bloud of the Grape</l>
+               <l>Will not plunge himself o're Head and Ears</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Then Summon the Gallon,</l>
+               <l>A stout Foe, and a Tall one,</l>
+               <l>And likely to hold us to't;</l>
+               <l>Keep but Coyn in your Purse,</l>
+               <l>The word is Disburse,</l>
+               <l>I'le warrant he'l sleep at your foot.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>See the bold foe appears,</l>
+               <l>May he fall that him fears,</l>
+               <l>Keep you but close order and then,</l>
+               <l>Wee will give him the Rout</l>
+               <l>Be he never so stout,</l>
+               <l>And prepare for his Railying Agen.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Let's drain the whole Cellar,</l>
+               <l>Pipes, Buts, and the Dweller,</l>
+               <l>If the Wine flotes not the faster;</l>
+               <l>
+                  <hi>Will,</hi> when thou do'st slack us</l>
+               <l>By Warrant from <hi>Bacchus</hi>
+               </l>
+               <l>Wee will Cane thy Tun-belly'd Master.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="29" facs="tcp:199495:18"/>
+            <head>Loves Power.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>
+                  <seg rend="decorInit">P</seg>Helinia</hi> wept, and from her Eyes the pearly dew did fall upon her Cheeks, then soon did rise the Sun and drank up all; a calm as sudden as the storm, which shew'd Love's equal force, he could as well put on the form of Anger as Remorce: <stage>Chor.</stage> She wept for loss of pleasures past, and smil'd to meet them at the last. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Love so inspir'd her every part,</l>
+               <l>That shee could Spirits raise;</l>
+               <l>And lay them with more ease and Art,</l>
+               <l>Then Boys crack Nuts at Plays:</l>
+               <l>With various Sceans of fresh delight</l>
+               <l>We spent a Summers-day,</l>
+               <l>Thou art my Son, in spight of Night,</l>
+               <l>Whil'st thou art up I'le stay:</l>
+               <l>
+                  <hi>Chor.</hi>—But th' fancy I could not maintain,</l>
+               <l>And then she falls to whine again.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Oh fye, quoth she, can Love grow cold</l>
+               <l>In Thee, who's All-desire?</l>
+               <l>Or yet his Mother (never old)</l>
+               <l>In me want sprightly fire?</l>
+               <l>How can'st thou then so soon forsake</l>
+               <l>The Sweetness of my Love?</l>
+               <l>The Bare was straight brought to the stake,</l>
+               <l>But baited like a Dove.</l>
+               <l>
+                  <hi>Chor.</hi>—With that she smil'd, and cry'd (my heart)</l>
+               <l>I wish that we may never part,</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="30" facs="tcp:199495:19"/>
+            <head>The Allegory.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">A</seg>S <hi>Plutarch</hi> doth write, (a man of known credit) a Serpent there was had a mutinous Tail, rebell'd 'gainst the Head, that so oft had fed it, and would not permit it to lead or prevail: I'st not fit that by turns we Leaders should be? Quoth the Tail, Follow me, as I've follow'd thee. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Now the Body being grown too strong for the Head,</l>
+               <l>Quoth the Head, Since it must be, then let it be so;</l>
+               <l>'Tis for quietness sake I yield to be lead,</l>
+               <l>Though I fear that from hence some danger will grow:</l>
+               <l>A thing so unnatural never was read,</l>
+               <l>As the Head to turn Tail, and the Tail to turn Head.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The Tail takes precedence as blindly leads on,</l>
+               <l>As deaf to the Reason the Head had it given;</l>
+               <l>It blusters along, and ne'r thinks upon</l>
+               <l>The straights thorough which, th' poor Head had been driven:</l>
+               <l>At last by an accident a Scean of woe,</l>
+               <l>The Head was destroy'd and the Tail perish'd too,</l>
+            </lg>
+            <lg n="4">
+               <pb n="31" facs="tcp:199495:19"/>
+               <head>IV.</head>
+               <l>A Monster like this, but of stranger conditions,</l>
+               <l>Ingender'd there was in the year Thirty nine;</l>
+               <l>Rebell'd 'gainst the Head, but with fawning Petitions,</l>
+               <l>To have it its right and its power to resigne:</l>
+               <l>This Monster, the truth on't to speak, was begot</l>
+               <l>'Twixt a Mungrel Parson, and that Witch the <hi>Scot.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>So large and so mighty this Tail grew in length,</l>
+               <l>That where so e'r it came, it swept all before it;</l>
+               <l>There was no resisting so powerful a strength,</l>
+               <l>The Head at the last was forc'd to implore it:</l>
+               <l>All our Castles and Towns this Tail did subdue,</l>
+               <l>A sad tale to tell, but believe me 'tis true.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Above seven years conflict this Head did indure</l>
+               <l>With that monsterous Tail, and the spawn it begot;</l>
+               <l>In which time scarce any mans life was secure,</l>
+               <l>Their Goods and their Cattle went all to the pot:</l>
+               <l>At last came a Champion with an Iron Flail,</l>
+               <l>And ended the strife 'twixt the Head and the Tail.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>The Head being departed, the Body began</l>
+               <l>To consult with the Tail what best was to do;</l>
+               <l>Saint <hi>George</hi> (quoth the Body) 'tis said was a man,</l>
+               <l>But what can this thing be that's called Saint <hi>O:</hi>
+               </l>
+               <l>Why? he (quoth the Tail) was one of our rout,</l>
+               <l>And 'tis wondrous strange, he should turn Tail about!</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>But while they thus argu'd, in rush'd brave Saint <hi>O,</hi>
+               </l>
+               <l>With courage more keen, then the sword that he wore;</l>
+               <l>Quoth he, You are vile things, not fit here to grow,</l>
+               <l>Such Fins in this place were ne'r known heretofore:</l>
+               <l>The blood and the fat of the Country doth feed you,</l>
+               <l>And high time it is I guess now to bleed you.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Some say that this Tail wore the mark of a <hi>P;</hi>
+               </l>
+               <l>
+                  <hi>O</hi> is a letter in rank known before it;</l>
+               <l>But it makes no matter, 'tis all one to me,</l>
+               <l>Save this, I'm sure the <hi>O</hi> had the more wit:</l>
+               <l>Their's no man so blind but may easily see,</l>
+               <l>H' has added unto his smal <hi>O,</hi> a tall <hi>P.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>My story now ended, come, <hi>viva</hi> Saint <hi>George,</hi>
+               </l>
+               <l>That old true blew Lad and Hospital Saint;</l>
+               <l>Bring a But of good Sack to fill up my gorge,</l>
+               <l>At this tale of Head and Tail I almost faint:</l>
+               <l>How e'r let it pass, if you study upon't</l>
+               <l>I hope you will neither make Head or Tail on't.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="32" facs="tcp:199495:20"/>
+            <head>Sacks Ʋertue.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">N</seg>E'r trouble thy self at the Times, nor their Turnings, Afflictions run Circular, and wheel about; Away with thy murmuring and thy heart-burnings with the Juice of the Grape wee'l quench the fire out; Ne'r chain nor Imprison thy Soul up in sorrow, what fails us to day may be╌frind us to morrow; Let us scorn our content from others to borrow. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Though Fortune hath left us, wee'l strive to regain her,</l>
+               <l>And Court her with Cups till her Favourer come;</l>
+               <l>Then we with a Courage untam'd will maintain her,</l>
+               <l>And silence the noice of the Enemies drumb:</l>
+               <l>We will fix her unto the man most deserving,</l>
+               <l>He'l keep her at work, as well as from starving;</l>
+               <l>She shall not hereafter be at her own carving.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="33" facs="tcp:199495:20"/>
+            <head>To his Mistresse advising him from Wine.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">H</seg>Ow Dearest! Art thou weary of thy fame, that thou wouldst banish that preserves my flame? When I doe write on th' vigor of thine Eye, a sprightly Glass of Sack I've standing by, from whence my Pen takes life and speed: That smile of thine, thou ow'st to Sack for my fair guile. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> That lively colour of thy Cheek and Lip,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> From the rich Claret did my fancy sip;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> And from the mantling sparks which thence arise, </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I Metaphor'd those <hi>Cupids</hi> in thy Eyes:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> From the Lov'd Grape I can create conceit</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Enough to raise dejection to the — Seat</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Of Honour: — 'tis the <hi>Nepenthean</hi> Spring,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> About the which the jolly Muses sing</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thy praises from my Verse: Oh! let me lack</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> All things else useful, so thou'lt give me Sack:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thou may'st as well go bid me leave to live,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> As have me leave the means which Life doth give:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> {vocal join} Faith, leave my Wine, and Farewell Poetrie;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Forgetting which none will remember thee.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="34" facs="tcp:199495:21"/>
+            <head>The Deceiving Mistress.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">T</seg>Hine Eyes shall be my Stars no more, they have decei╌ved me; He madly doth his death implore, that seeks from them securitie. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>I thought they had been fix'd on me,</l>
+               <l>But wandring Lights they prove;</l>
+               <l>The more they are admir'd in thee,</l>
+               <l>The more they love to gad and rove.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>As though they would out-vie the light</l>
+               <l>Contracted to the day;</l>
+               <l>Untill the glory of its sight</l>
+               <l>Some easie Hearts, (like mine) betray.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Yet boast not of that cruel Art</l>
+               <l>That so out-witted mine;</l>
+               <l>For know, thou ne'r hadst got my heart,</l>
+               <l>Had I not more then hop'd for thine.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>I see their's policy in Love,</l>
+               <l>The slower men come on;</l>
+               <l>The faster your desires do move,</l>
+               <l>'Tis Madness you to dote upon.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>For this sad truth I boldly tell,</l>
+               <l>Experience finds it such;</l>
+               <l>That had not I Lov'd half so well,</l>
+               <l>Thou hadst not hated me so much.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>How to chuse a Mistress.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg> Would not wed the Creature that desires to know the secrets of the Marriage-bed; and to repell the fury of her fires, forsooth, in all haste must be married. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Nor she who by her Parents cruelty</l>
+               <l>Is made to loath her self, and cares not how</l>
+               <l>She is bestow'd, to Joy or Misery:</l>
+               <l>Ne'r minding Love nor Mariages strickt Vow.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Nor she who hath to any been a Stale,</l>
+               <l>And now with Frantick Resolution swears</l>
+               <l>The next that comes to Court her shall prevail,</l>
+               <l>Oh! such a peice would lug Love by the Ears.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:199495:21"/>
+               <l>Nor She that would be Wed to be made fine,</l>
+               <l>Thinking content should her attendant be;</l>
+               <l>Believing not to want what e're was mine;</l>
+               <l>Faith, such a Piece doth Love her self, not me.</l>
+            </lg>
+            <lg>
+               <l>Nor your half Matron of some thirty five,</l>
+               <l>Whose in good-law and good-sooths have worn out</l>
+               <l>Her Lips and Teeth, whose heart is but a Sive,</l>
+               <l>As fast as Love creeps in it goeth out.</l>
+            </lg>
+            <lg>
+               <l>Nor the green piece that weds for the Rings sake,</l>
+               <l>And other pretty things belonging to't;</l>
+               <l>The man that hath her must her Babies make,</l>
+               <l>And have a Fool and thousand plagues to boot.</l>
+            </lg>
+            <lg>
+               <l>Nor yet the serious Soul that doth imploy</l>
+               <l>Her whole day at her work, or pries into</l>
+               <l>The Cooks Affairs, in her there is small joy,</l>
+               <l>She'l Love me when She'as nothing else to do.</l>
+            </lg>
+            <lg>
+               <l>Now some will say, I cann't find such an one,</l>
+               <l>That is from one or all these follies free;</l>
+               <l>To such I answer, that they are unknown,</l>
+               <l>Unto thy worth, and ignorant of thee.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>Jealousie.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">T</seg>He day that's lost ere scarcely shown, might rule eternally, did not the pre<g ref="char:EOLhyphen"/>rogative of Night insinuate a sov'raignty: The Spring and Summer cropt ere blown, with all their gaudy train, might ever season our delight, did not intruding Winter reign. </p>
+            <lg>
+               <l>The Sea whose often Shipwracks strike</l>
+               <l>A fear into the Advent'rers mind,</l>
+               <l>Would safely harbour did no Storm</l>
+               <l>Engage its nature to the Wind:</l>
+               <l>All things in goodness would be like,</l>
+               <l>Did not their ills their differ'nce shew;</l>
+               <l>Beauty in freedome as in form,</l>
+               <l>And Nature no decaying know.</l>
+            </lg>
+            <lg>
+               <l>Youth dwell for ever on our Cheeks,</l>
+               <l>Did not the Iron hand of Age</l>
+               <l>Imprint a Ruine or disease,</l>
+               <l>Invade our healths and life Engage:</l>
+               <l>Man might possess as soon as seek,</l>
+               <l>The pleasures that do so entice;</l>
+               <l>But his own nature doth displease,</l>
+               <l>Else Earth had been a Paradise.</l>
+            </lg>
+            <lg>
+               <l>So, had not cruel Love crept in,</l>
+               <l>My heart had been from passion free;</l>
+               <l>And my content had been my own,</l>
+               <l>Not slav'd to sottish Jealousie:</l>
+               <l>But Love hath rais'd such war within,</l>
+               <l>It doth disturb my peaceful pores;</l>
+               <l>And Tyrant-like (Alas!) hath thrown</l>
+               <l>My Rest and Quiet out of dores.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="36" facs="tcp:199495:22"/>
+            <head>The poor <hi>Scholar</hi>'s Song.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hat Creatures on Earth can boast freer mirth, less envy'd and loved than wee; though Learning grow poor we scorn to implore a gift but what's noble and free. </p>
+            <lg>
+               <l>Our freedome of mind</l>
+               <l>Cannot be confin'd,</l>
+               <l>With Riches we're inwardly blest;</l>
+               <l>Nor Death nor the Grave</l>
+               <l>Our worths can deprave,</l>
+               <l>Nor Malice our Ashesmolest:</l>
+            </lg>
+            <lg>
+               <l>When such Moles as you</l>
+               <l>Your own Earth shall mue,</l>
+               <l>And Worms shall your memory eat;</l>
+               <l>Our names being read,</l>
+               <l>Shall strike Envy dead,</l>
+               <l>And Ages our Worths shall repeat.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>Ʋpon Recovery of a fit of Sickness.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">T</seg>Is true; I did receive a Life from you: For he's unjust that shall deny the miracles thou dost: When my poor Heart was ready to depart this air, thou cam'st to vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it me, and brought'st me heavenly Surgerie in either Eye. </p>
+            <lg>
+               <l>But see,</l>
+               <l>This mercy's full of crueltie;</l>
+               <l>For I had paid</l>
+               <l>But one poor Life, had then my frame decay'd:</l>
+               <l>When now to please</l>
+               <l>Your Pride is a Disease</l>
+               <l>Past cure; for with each minute I</l>
+               <l>Suffer a Death, yet cannot dye;</l>
+               <l>'Tis Tyranny.</l>
+            </lg>
+            <lg>
+               <l>My Heart,</l>
+               <l>Whereon you practise all your Art;</l>
+               <l>You'l say's your own,</l>
+               <l>So Surg'ons torture ere their skill be shown:</l>
+               <l>If you'l devise</l>
+               <l>Mine to Anotomise,</l>
+               <l>That so you may advance your skill;</l>
+               <l>First be so kind as throughly kill;</l>
+               <l>My wish fulfill.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="37" facs="tcp:199495:22"/>
+            <head>A Kiss.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hen thou <hi>Ostella</hi> grac'd me with a Kiss, it was conceiv'd it could not wound my Bliss, or discompose the Quiet I possest, e're Love usurp'd the freedome of my breast; But this I find, such Bliss, such Torment too, I ne'r had felt, had I not fanci'd you. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>That welcom'd Kiss shot fire at every part,</l>
+               <l>Till it had seiz'd the Chamber of my Heart;</l>
+               <l>And there surpriz'd the Virgin of Content</l>
+               <l>That ne'r knew Love before, or Detriment:</l>
+               <l>The Bee so leaves her sting, yet doth not know,</l>
+               <l>Mistaking thus where shee hath hurt or no.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then when with Sighs and Tears I strive to kill</l>
+               <l>The Raging Heat, they but augment my ill;</l>
+               <l>The more I breath, the more the Flames aspire,</l>
+               <l>Love turns my Tears to Oyle to feed the Fire;</l>
+               <l>And when to you my Griefs I would impart,</l>
+               <l>Fear tyes my Tongue and Love enthrals my Heart.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>License my love <hi>Ostella</hi> then, and give</l>
+               <l>A Cure to that, else must not hope to live;</l>
+               <l>Nor glory in this conquer'd Heart of mine,</l>
+               <l>Pitie will make your Beauty more divine;</l>
+               <l>Soften your Heart like mine that doats on you,</l>
+               <l>Or teach me how to make mine Marble too.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="38" facs="tcp:199495:23"/>
+            <head>His Mistriss bidding him make another choice.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">K</seg>Now Dearest 'twas no easie Art could so have conquer'd me, my breast was proof against the Dart of any foe but thee: And hadst thou wounded me with smiles, then cur'd me with a kiss, I had contemn'd thy Sexes wiles as Enemies to Bliss. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>But having caught me in the snare,</l>
+               <l>I cann't with ease return;</l>
+               <l>Had others harmes made me beware</l>
+               <l>I might have left to burn:</l>
+               <l>But greedy of my misery,</l>
+               <l>I courted so my fate;</l>
+               <l>The Object spake all Love to me,</l>
+               <l>But the Effect on't hate.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>No Beauty but thy own shall make,</l>
+               <l>Me sensible of wo;</l>
+               <l>For when I do the same forsake,</l>
+               <l>I must my bliss forego:</l>
+               <l>My heart shall never yield it self,</l>
+               <l>A prisoner, but to thee,</l>
+               <l>For no respect to praise or pelf,</l>
+               <l>Shall bribe my constancie.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>When thou shalt frame thy Throne of Bliss,</l>
+               <l>Look down on my sad heart;</l>
+               <l>And know for whose dear sake it is</l>
+               <l>Appointed so to smart:</l>
+               <l>When thou shalt find I prize thy joy</l>
+               <l>More then my own content;</l>
+               <l>What heart but thine could so destroy</l>
+               <l>A heart so innocent.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>When thou shalt find my youth to waste,</l>
+               <l>My Loyalty indure;</l>
+               <l>And I no other joys do taste,</l>
+               <l>Then what thy hate doth sowre:</l>
+               <l>When thou shalt find I take delight</l>
+               <l>In nothing saving thee;</l>
+               <l>If pity would my Love requite,</l>
+               <l>Be kind to murther me.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Till when my soul when 'tis most sad</l>
+               <l>Shall find the way to Sing</l>
+               <l>There is no comfort to be had,</l>
+               <l>But what thy Love must bring:</l>
+               <l>And if thy glories think it meet</l>
+               <l>I must thy Martyr be</l>
+               <l>When Natures watch hath left to beat,</l>
+               <l>Farewell Fair crueltie.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="39" facs="tcp:199495:23"/>
+            <head>To a Mistress that thinks the Sight without other Injoyment is Love sufficient.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg>F thou intend'st only to try the silent Courtship of the Eye, without the sense of what is good, which by Loves Fires are understood; Command those <hi>Cupids</hi> to retire whose Darts are headed with Desire. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Forbid the union of our hands,</l>
+               <l>Each Amorous touch a heat commands;</l>
+               <l>Forbid our lips to meet and melt,</l>
+               <l>Where the pure sense of Love is felt:</l>
+               <l>Forbid thy Tongue to whisper Love,</l>
+               <l>That very word hath power to move.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Whose ardent breath infused, can</l>
+               <l>Raise courage in a dying man;</l>
+               <l>And through each Vein fresh heat restore,</l>
+               <l>That had been star'd with cold before:</l>
+               <l>So from thy Air such vigour came,</l>
+               <l>It curl'd my Heart into a flame.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Forbid thy Cheeks to shew their Spring,</l>
+               <l>Forbid thy Nightingale to sing;</l>
+               <l>Forbid thy All and every part,</l>
+               <l>To shew so much their Mistriss Art:</l>
+               <l>For 'less thou keep'st those baits within,</l>
+               <l>They'l tempt an Anchorite to sin.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Yet should those excellences be,</l>
+               <l>Depriv'd their proper use in thee;</l>
+               <l>Men would be apt their faiths to pawn,</l>
+               <l>Th'art but a picture lively drawn:</l>
+               <l>One which each rude presumptuous Eye,</l>
+               <l>Admiring feasts as well as die.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>So I confess my flames may end,</l>
+               <l>And thou a shadow lose thy friend;</l>
+               <l>Unless thy fancy raise conceit,</l>
+               <l>Thou art my Mistriss counterfeit:</l>
+               <l>And so surveying each fair part,</l>
+               <l>I paint her figure in my Heart.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="40" facs="tcp:199495:24"/>
+            <head>The Country Man's Life.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Ho can boast a happiness more compleatly sure then wee, since our harmless thoughts are drest in a pure Simplicitie, and chast Nature doth dispense here her Beauties Innocence? </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Envie is a stranger here,</l>
+               <l>Blest Content our Boles do crown;</l>
+               <l>Let such slave themselves to fear</l>
+               <l>On whose guilt the Judge doth frown;</l>
+               <l>We from evill Actions are</l>
+               <l>Free as uncorrupted Air.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>With the Turtles whisper Love,</l>
+               <l>With the Birds we practise Mirth;</l>
+               <l>With our harmless Kids we move,</l>
+               <l>And receive our food from Earth;</l>
+               <l>Nor do we disdain to be</l>
+               <l>Cloath'd with the Lambs Livery.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>To a simple Coy Mistress.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hat though I did swear your Eye had enough to take a Heart, yet from mine I will not part, I have read Loves Sophistry: For know, Proud, I ne'r was born to endure your Sexes Scorn. </p>
+            <lg>
+               <l>Though I you a Lilly swore,</l>
+               <l>Yet the Violets azur'd hue</l>
+               <l>Is for use more priz'd than you:</l>
+               <l>Nor will I those Lips adore,</l>
+               <l>Since the Cherries trees do bear</l>
+               <l>Are far sweeter than yours are.</l>
+            </lg>
+            <lg>
+               <l>Though I priz'd your swelling Brest,</l>
+               <l>Yet the Grape, or Goosberry</l>
+               <l>Yield a juice more Savory;</l>
+               <l>Nor will I again protest</l>
+               <l>To an out-side, till I know</l>
+               <l>'Tis for Taste as well as Show.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="41" facs="tcp:199495:24"/>
+            <head>The Real Drinker.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">D</seg>Isputes daily arise, and Errors grow bolder; Philosophers prattle, and so does the Sizer, the more we should know then by being the older; but plainly 't appears ther's no body wiser: Hee that spends what hee has, and wisely drinks all, 'tis hee is the man Ma╌the╌ma╌ti╌call. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>The scepticall Brain, 'tis that most men lik<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> best,</l>
+               <l>To appear subtile Wits, but live in suspence;</l>
+               <l>Thus all their lives long they are but in Quest,</l>
+               <l>And never arrive at true Science or Sense:</l>
+               <l>Since the Schools then dispute about <hi>Aristotle,</hi>
+               </l>
+               <l>Let us now agree in our terms o're a Pottle.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Opinion it is that governs the World;</l>
+               <l>Why should not mine, and the Clubbs be as free,</l>
+               <l>As he that a hundred into Prison hurl'd,</l>
+               <l>And with his Horse and his Mace confutes poor mee?</l>
+               <l>We have probable reasons our Tenets to back,</l>
+               <l>And what more pretend they that quarrell with Sack?</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Since we now for mirth (Lads) our fancy disposes,</l>
+               <l>And ev'ry man thinks what he does is but reason;</l>
+               <l>Let's tipple a Glass round, till our Cheeks and our Noses</l>
+               <l>Are deeper dy'd than the Rose in 'its season:</l>
+               <l>What is demonstrative is approv'd by all,</l>
+               <l>Then drinking Healths too, is Mathematical.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>To our Mistrisses then a full Glass be crown'd;</l>
+               <l>He that will not pledge it, we'l count him a Sinner;</l>
+               <l>Then freely cast all your Hats on the ground,</l>
+               <l>'Tis but what was done at a thanksgiving-Dinner:</l>
+               <l>They too had reason, being inspir'd by Wine,</l>
+               <l>To believe what they did was partly Divine.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="42" facs="tcp:199495:25"/>
+            <head>Beauty and Love at ods.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">B</seg>Eauty and Love once fell at ods, and thus revil'd each other: Said Love, I am one of the gods, and you wait on my Mother: Thou hast no power ore Man at all, but what I gave to thee; nor art thou longer fair or sweet than men acknowledge thee. Away, Fond boy, then Beauty said, we know that thou art blind; but men have knowing eyes, and can thy graces better find: 'Twas I begot thee, Mortals know, and call'd thee <hi>Blind desire;</hi> I made thy Quiver and thy
+<pb n="43" facs="tcp:199495:25"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Bow, and Wings to kindle fire. Love then in an╌ger flew away, and straight to <hi>Vulcan</hi> pray'd, that he would tip his shafts with Scorn to punish this proud Maid. Thus Beauty ever since hath been but courted for an hour, to Love a day is now a sin 'gainst <hi>Cupid</hi> and his pow'r. </p>
+         </div>
+         <div type="song">
+            <pb n="44" facs="tcp:199495:26"/>
+            <head>Natural Beauty best.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">B</seg>Eauty pleaseth most the fancy, yet a question will arise, whether it is more in <hi>Nancy</hi> or in sweet <hi>Philloclea</hi>'s Eyes? Ten black Patches on a Face, adde no Beauty to that place, nor admir'd by men are wise. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Symitry some Beauty call,</l>
+               <l>And Colours some say base is;</l>
+               <l>What shall they do have none at all,</l>
+               <l>But are subject to disgraces?</l>
+               <l>The <hi>Frenchman</hi>'s Shop on <hi>Ludgate</hi>-Hill,</l>
+               <l>The Ladies there buy what they will</l>
+               <l>Both for their Hands and Faces.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>I wonder how to them't appears,</l>
+               <l>There beauty is so lasting,</l>
+               <l>That they should not at threescore years;</l>
+               <l>Nay, sooner find it wasting?</l>
+               <l>'Tis a Fort can't long hold out,</l>
+               <l>Light-foot time sure will it rout,</l>
+               <l>For after them he's hasting.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Paint Ladies therefore whilst you live,</l>
+               <l>Alluring 'tis to plaister fair;</l>
+               <l>Purchase this art what ere you give,</l>
+               <l>It makes you appear not what you are:</l>
+               <l>If your house chance once to fall,</l>
+               <l>Ruines fatall to you all,</l>
+               <l>And yee are past all repair.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>That's perfect Beauty when the Mind,</l>
+               <l>(And's longer liv'd then babling Fame,)</l>
+               <l>To Wit and Wisdome is inclin'd,</l>
+               <l>The Face and Body Natures frame:</l>
+               <l>Not patch'd up with Exchanging Shops,</l>
+               <l>Or devising Taylors props;</l>
+               <l>Art and Ornament they shame.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Such a Mistris I have found,</l>
+               <l>With adoration her admire!</l>
+               <l>With all these Graces She is crown'd,</l>
+               <l>And I have my own desire:</l>
+               <l>Aged Time shall Poets raise</l>
+               <l>More worthy far to sing her praise</l>
+               <l>In a strain that is more higher.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="45" facs="tcp:199495:26"/>
+            <head>Liberty breeds Presumption.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hen the unfetter'd subjects of the Seas, the Rivers, found their silver feet at ease; no sooner summon'd, but they swiftly went, to meet the Ocean at a Parliament: Did not the petty Fountains say, their King, the Ocean, was no Ocean but a Spring? As now some do, the power of Kings dispute; and think it less, 'cause more is added too't. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Pale Ignorance, can the excess of Store</l>
+               <l>Make him seem poorer than he was before?</l>
+               <l>The Stars, the Heavens Inferior Courtiers, may</l>
+               <l>Govern the Nights darkness but not rule the Day:</l>
+               <l>Where the Sun Lords it, though they all combine</l>
+               <l>With <hi>Lucia,</hi> in her Vulgar dress, to shine</l>
+               <l>Brighter than they; nor can He be subdu'd,</l>
+               <l>Although but one, and they a multitude.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Say Subjects, are you Stars, be it alow'd,</l>
+               <l>You justly of your Members may be proud;</l>
+               <l>But to the Sun inferior; for know this,</l>
+               <l>Your Light is borrow'd, not your own, but his:</l>
+               <l>And as all Streams into the Ocean run,</l>
+               <l>You ought to pay your contribution:</l>
+               <l>Then do not such Ingratitude oppress,</l>
+               <l>To make him low that could have made you less</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="46" facs="tcp:199495:27"/>
+            <head>The true Sack-drinker.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">C</seg>Ome let us drink away the Time, a pox upon this peevish Rhime, when Wine runs high wits in the prime; Drink and true Drinkers are true joyes, Odes, Sonnets, and such little Toyes, are Ex╌er╌ci╌ses fit for Boyes. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>The whyning Lover that does place</l>
+               <l>His wonder in a painted Face,</l>
+               <l>And wasts his Substance in the Chace,</l>
+               <l>Could not in melancholy pine,</l>
+               <l>Had he affections so Divine</l>
+               <l>As once to fall in Love with Wine.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then to our Liquor let us sit,</l>
+               <l>Wine makes the Soul for Action fit;</l>
+               <l>Who bares most Wine has then most wit:</l>
+               <l>The Gods themselves their Revels keep,</l>
+               <l>And in pure Nectar tipple deep</l>
+               <l>When sloathfull Mortals are asleep.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>They fudl'd once for Recreation,</l>
+               <l>In Water which by all Relation,</l>
+               <l>Did cause <hi>Ducalions</hi> Innundation:</l>
+               <l>The spangled Globe, as it held most,</l>
+               <l>Their Bole was with Salt-water dost,</l>
+               <l>The Sun-burnt Center was the Tost.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>In Wine <hi>Apollo</hi> allwayes chose</l>
+               <l>His darkest Oracles to disclose;</l>
+               <l>'Twas Wine gave him his Ruby-nose:</l>
+               <l>The gods then let us imitate,</l>
+               <l>Secure of Fortune and of Fate;</l>
+               <l>Wine Wit and Courage doth create.</l>
+            </lg>
+            <lg n="6">
+               <pb n="47" facs="tcp:199495:27"/>
+               <head>VI.</head>
+               <l>Who dares not drink's a wretched Wight,</l>
+               <l>Nor do I think that man dares fight</l>
+               <l>All day, that dares not drink all night;</l>
+               <l>Fill up the Goblet till it swim</l>
+               <l>With Foam that over looks the Brim;</l>
+               <l>He that drinks deepest, Here's to him.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Sobrietie and Study breeds</l>
+               <l>Suspition in our Thoughts and Deeds,</l>
+               <l>The Down-right Drunkard no man heeds:</l>
+               <l>Let me have Sack, Tobacco store,</l>
+               <l>A drunken Friend, a little Whore,</l>
+               <l>Provided, I will ask no more.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>Love Insatiable.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Hat end have his desires that takes delight in Red and White, his Eyes can never rest till he do see the fairest Shee; then thinking to improve his Bliss, hee'd give a Kingdome for a Kiss. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>If he in time obtain the Charitie</l>
+               <l>Of a kind Kiss,</l>
+               <l>The touch of the warm Snow-balls on her Brest,</l>
+               <l>And all the rest;</l>
+               <l>Such Favours heighten his desire,</l>
+               <l>And do increase, not quench the fire.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>If she yield up her honnour to his will,</l>
+               <l>He'l covet still;</l>
+               <l>Another Face inviteth him to trie</l>
+               <l>Varietie,</l>
+               <l>No sweets of love can satisfie</l>
+               <l>A wanton Curiositie.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="48" facs="tcp:199495:28"/>
+            <head>Sacks Flavour.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg>Oyn thy enamell'd Cheek to mine, I'le bring thee where is Rasie Wine; and where a loving Leagur's kept, where many Tankard tears are wept for the Cash that is gon: That is here; joy and grief, in a Tear we will wash. There we studie Revenges. Make <stage>Together.</stage> plots without hinges. More black then the fifth of <hi>November</hi>'s. With Pipe, Pot, and Cup, More black then the fifth of <hi>November</hi>'s. With Pipe, Pot, and Cup, our Estates we rake up, till our Eyes do appear like the Embers. our Estates we rake up, till our Eyes do appear like the Embers.</p>
+            <lg n="2">
+               <head>II.</head>
+               <l>There with a Sack-incensed Face,</l>
+               <l>In speckled State an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grace,</l>
+               <l>With dabbl'd Do<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appear</l>
+               <l>The Corall front of Caveleer</l>
+               <l>With a Bole:</l>
+               <l>Full of Sack, such as can</l>
+               <l>In the most dying man</l>
+               <l>Raise a Soul.</l>
+               <pb n="49" facs="tcp:199495:28"/>
+               <l>And forbids any venter</l>
+               <l>The Leagure to enter,</l>
+               <l>Or neer it commit such a Trespass;</l>
+               <l>If his Cheeks do not shine,</l>
+               <l>With the bloud of the Vine,</l>
+               <l>And his Nostrils do look like a Respass.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>In <hi>Fletcher</hi>'s Wit, and <hi>Johnson</hi>'s Style,</l>
+               <l>There we will sit and fret a while;</l>
+               <l>Cursing the puddle of their Brains</l>
+               <l>That pull'd down Grapes, and put up Grains;</l>
+               <l>They are Foes</l>
+               <l>Who with Bag-pipes for Shalmes,</l>
+               <l>Deal in smal Beer and Psalmes</l>
+               <l>Through the Nose;</l>
+               <l>May want of drink grieve them,</l>
+               <l>And no man releive them,</l>
+               <l>Till scorhing inform them what Hell is;</l>
+               <l>May <hi>Howns-ditch,</hi> and <hi>Tower-ditch,</hi>
+               </l>
+               <l>With <hi>Shore-ditch,</hi> and <hi>More-ditch,</hi>
+               </l>
+               <l>Be empt'ed to fill up their Bellies.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>May all the Ills that can be thought</l>
+               <l>Either to heavy or to hot</l>
+               <l>Light on his Belly and his Back,</l>
+               <l>That envies as the joys of Sack:</l>
+               <l>Let him dye;</l>
+               <l>Or let him live with so much strife,</l>
+               <l>That he may beg to lose his life,</l>
+               <l>Till he cry</l>
+               <l>Good fellows forgive me;</l>
+               <l>If you will beleive me,</l>
+               <l>I swear by the Sword of a Lay-man,</l>
+               <l>I'le draw out my Whyneard,</l>
+               <l>And set up the Vineyard,</l>
+               <l>In spight of the Devil and Drayman.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="50" facs="tcp:199495:29"/>
+            <head>The Resolve.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">T</seg>Her's no man so worthy of Envy as he, drinks Sack and is free; can draw down his mind to his present Condition; and at that ebb can shew himself a better man then's Enemy at his full tide of Ambition: H'as a breast so well man'd he fears nor the thunder of those Bastards of Fame that have got a Name by rapine and plunder; but <stage>Chorus.</stage> bravely despiseth the mock Sun that riseth. He that's quiet within, what need he to care? He that's quiet within, what need he to care? though not worth a Groat, hath the whole World to spare. though not worth a Groat, hath the whole World to spare.</p>
+            <lg>
+               <pb n="51" facs="tcp:199495:29"/>
+               <l>He's arm'd 'gainst the Chances and Changes of State,</l>
+               <l>And still meets his Fate</l>
+               <l>With a conquering Cup of the stoutest Canarie;</l>
+               <l>Drinks healths to the best,</l>
+               <l>And he wrestles with the rest,</l>
+               <l>Yet never is foyl'd, lest his liquor miscarry:</l>
+               <l>His Thoughts are more free then the Bed that he lyes on;</l>
+               <l>Who puts his Cares to flight</l>
+               <l>A Prince is o're Night,</l>
+               <l>And next morning doth rise one;</l>
+               <l>Let Fates do what they will</l>
+               <l>He's the self-same man still.</l>
+               <l>
+                  <hi>Chorus.</hi>—Scepters have Palsies, and Crowns too are shaking,</l>
+               <l>He that soundly doth sleep, need not keep others waking.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then give us the Sack, let the Hen-hearted sit</l>
+               <l>Drink Whey and submit,</l>
+               <l>His Cucumer-Courage nere does well till beaten;</l>
+               <l>He Camel-like kneels,</l>
+               <l>And his burden ne'r feels</l>
+               <l>Till his Back becomes gall'd, and his Carcase near eaten:</l>
+               <l>Ha's a spirit so poor that every Knave rides him;</l>
+               <l>He's soul-less alone,</l>
+               <l>At best but a Drone,</l>
+               <l>And no man abides him;</l>
+               <l>He's a compact of Clay</l>
+               <l>That will turn any away:</l>
+               <l>
+                  <hi>Chorus.</hi>—'Tis Sack and good Company makes the Soul free,</l>
+               <l>Like the Musique of that there's no Harmonie.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="52" facs="tcp:199495:30"/>
+            <head>A Dialogue between <hi>Cloris</hi> and <hi>Doris.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">Y</seg>Ou have forgot then, <hi>D ris,</hi> your protest? No, I have not my <hi>Cloris,</hi> 'tis con<g ref="char:EOLhyphen"/>fest. But yet I saw you slide a Garland neatly tide into <hi>Urania</hi>'s hand; Let it suffice, though love be blind, Lovers have many eyes. Will you appear so strangely full of passion? I've cause to fear dissembled Love's in Fashion. Then why did you, I pray, with <hi>Strephon</hi> Sport and Play? You Kiss'd and Danc'd till day was past its prime, and all the while my Heart did beat the Time. </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="dialogue">
+                        <pb n="53" facs="tcp:199495:30"/>
+                        <head>II.</head>
+                        <sp>
+                           <speaker>Clo.</speaker>
+                           <l>—May I not dance, or harmlesly be kist?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Do.</speaker>
+                           <l>—So I may chance give Garlands, if I list.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Clo.</speaker>
+                           <l>—But when you are so free,</l>
+                           <l>Me thinks you steal from me</l>
+                           <l>For every Lover, will this Text approve</l>
+                           <l>There's Charity in all things, but in Love?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Do.</speaker>
+                           <l>—That day the storm fell to be true you swore.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Clo.</speaker>
+                           <l>—But when the Sun did shine, you vow'd much more.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Do.</speaker>
+                           <l>—Those constant vows I made,</l>
+                           <l>Were by your self betray'd;</l>
+                           <l>For I am taught to know, it is my due</l>
+                           <l>To be no faithfuller in Love than you.</l>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <stage>Chorus.</stage> Then jealousies be gone, and keep our sheep, lest that the Wolfe should make their Then jealousies be gone, and keep our sheep, lest that the Wolfe should make their number Small; but of our Loves our Loves no thing Command shall keep, but <hi>Cloris</hi> number Small; but of our Loves no thing Command shall keep, will, and <hi>Cloris</hi> will is all. but <hi>Cloris</hi> will, and <hi>Cloris</hi> will is all.</p>
+         </div>
+         <div type="song">
+            <head>A Dialogue between <hi>Lucasta</hi> and <hi>Alexis.</hi>
+            </head>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Ell me <hi>Alexis</hi> what this parting is, that so like dying is, but is not it. </p>
+            </sp>
+            <sp>
+               <speaker>Alexis</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> It is a sounding for a while from bliss, till kind how dee 'you, calls us from the fit: If then, &amp;c.</p>
+            </sp>
+            <sp>
+               <pb n="54" facs="tcp:199495:31"/>
+               <speaker>Alexis.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> If then the Spirits onely stay, l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t mine fly to thy Bosome.</p>
+            </sp>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>And my Soul to thine.</p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thus in Thus in our Native Seat we gladly give our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight for one where we can better live. our Native Seat we gladly give our right for one where we can better live.</p>
+            </sp>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But oh! this Lingring Murdring Farewell Death quickly wounds; and wounding cures the ill, </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xis.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> It is the glory of a valiant Lover, still to be dying, still for to recover.</p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Soldiers suspected Soldiers suspected of their courage go, that Ensignes and their Brests untorn show; Love neer his Standerd, of their courage go that Ensignes &amp; their Brests untorn show; Love neer his Standard when his Host he sets, creates alone fresh bleeding Bannerets. when his Host he sets, cre╌ates alone fresh bleeding Bannerets.</p>
+            </sp>
+            <sp>
+               <pb n="55" facs="tcp:199495:31"/>
+               <speaker>Alexis</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But part we when thy Figure I retain, still in my Heart, still strongly in mine Eye.</p>
+            </sp>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Shadows no longer then the Sun remain; but when his Beams that made them, fly, they fly.</p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Vain dreams Vain dreams of Love, that onely so much bliss allow us as, to know our wrechedness; of Love, that onely so much bliss allow us, as to know our wretchedness; and deal a and deal a larger measure in our pain, by shewing joy, then hiding it again. larger measure in our pain, by shewing joy, then hiding it again. <hi>Alexis</hi> No, whilest Light reigns <hi>Lucasta</hi> still rules here, and all the night shines wholly in this Sphere. </p>
+            </sp>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I know no Morne, but my <hi>A╌lex╌is</hi> Ray, to my dark thoughts the breaking of the day. <stage>
+                     <hi>Chorus</hi> ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in. V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in dreams, &amp;c.</stage>
+               </p>
+            </sp>
+            <sp>
+               <pb n="56" facs="tcp:199495:32"/>
+               <speaker>Alexis.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> So in each other, if the pitying Sun thus keep us fix'd, ne'r may his Course be run. </p>
+            </sp>
+            <sp>
+               <speaker>Lucasta.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But oh! If Night us undivided make, let us sleep still, and sleeping never wake. </p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Cruel Adieus may well adjurn a while the Sessions of a Look, a Kiss or Smile; and leave be- Cruel Adieus may well adjurn a while the Sessions of a Look, a Kiss or Smile; and leave be<g ref="char:EOLhyphen"/>hind an angry grieving blush; but Time nor Fate can part us joyned thus. hind an angry grieving blush; but Time nor Fate can part us joyned thus.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <head>A Pastoral Dialogue.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">C</seg>Ome yee Graces, come away; you pleasant, hours why do you stay?
+<pb n="57" facs="tcp:199495:32"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Upon your Mistriss wait, see where in State the Queen of Love and Beauty is. On such a Solemn night as this, Sacred to kissing, what bold Nymph dare be missing? They come, they come, behold the modest graces. For Loves sake mend your paces, and blush not to be bold; the hours have lost their wings, I fear. No, they appear. <stage>Chorus.</stage> And <hi>Ida</hi> green is now the Court of <hi>Passas</hi> Queen: when every one doth wel- And <hi>Ida</hi> green is now the Court of <hi>Passas</hi> Queen: when every one doth wel<g ref="char:EOLhyphen"/>come sing to <hi>Venus</hi> and their new made King. come sing to <hi>Venus</hi> and their new made King. </p>
+         </div>
+         <div type="song">
+            <pb n="58" facs="tcp:199495:33"/>
+            <head>Lilly Contemn'd.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">W</seg>Why art thou sad? Our Glasses flow like little Rivers to the Main, and ne'r a man here hath a Shrew, what need'st thou then complain? Then Boyes mind your Glass, and let all News pass, that treats not of this our Canary. Let Lawyers fear their Fate. In the turn of the State. <stage>Chorus.</stage> We suffer i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this do miscarry: 'Tis this will preserve us 'gainst <hi>Lilly</hi>'s predictions, and We suffer if this do miscarry: 'Tis this will preserve us 'gainst <hi>Lilly</hi>'s predictions, and make us contemn our Fate and his Fictions. make us contemn our Fate and his Fictions.</p>
+            <lg n="2">
+               <pb n="59" facs="tcp:199495:33"/>
+               <head>II.</head>
+               <l>'Tis this maintains the City Ruff,</l>
+               <l>And lines the Aldermen with Furr;</l>
+               <l>It makes the Watchmen stiff and tuff</l>
+               <l>To call, Where go you Sir?</l>
+               <l>'Tis this doth advance</l>
+               <l>The Cap of Maintenance,</l>
+               <l>And keeps the Sword sleeping or waking;</l>
+               <l>It Courage doth raise</l>
+               <l>In such men now a dayes,</l>
+               <l>That heretofore cry'd at Head-aching.</l>
+               <l>
+                  <hi>Chorus.</hi>—'Tis this doth infuse in a Miser some pity,</l>
+               <l>And is the Genius and Soul of the City.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Then why should we despair, or think</l>
+               <l>The Enemy approacheth nere?</l>
+               <l>Let such as never use to drink</l>
+               <l>Sack, be enslav'd to Fear:</l>
+               <l>Then to get Honour,</l>
+               <l>And that waits on her,</l>
+               <l>Strange Titles Illustrious and Mighty,</l>
+               <l>We'l have a smart Bout,</l>
+               <l>Shall speak us men and stout,</l>
+               <l>And I'le be the first that shall fight ye.</l>
+               <l>
+                  <hi>Chorus.</hi>—He that stifly can stand to't, and hath the best Brain;</l>
+               <l>Shall be styl'd Son of <hi>Mars,</hi> and God of the Main.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>Loves Charm.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">V</seg>Nfold thine Arms, and let me go, thine Eyes upbraid me with neglect; my Lips so close to thy Lips grow, the closeness hinders their Aspect. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>We first say they found out her face,</l>
+               <l>And to thy wandring heart made known</l>
+               <l>The purchase of so sweet a place,</l>
+               <l>To make a dwelling of its own.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>When men a building do erect,</l>
+               <l>They give not Drudges so much pay</l>
+               <l>As they do to the Architect,</l>
+               <l>Who did the first foundation lay.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Compar'd with us, what vertue hath</l>
+               <l>Each other sense; since if it must</l>
+               <l>Alwayes rely upon our faith</l>
+               <l>To take Beauty upon trust.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Oh! Eyes: why do you thus complain?</l>
+               <l>We dare not rob you of your due;</l>
+               <l>For our Imbraces onely aim</l>
+               <l>To humble every sense to you.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="60" facs="tcp:199495:34"/>
+            <head>The Vanity of Wealth.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg>F wealth could keep a man alive, I'd onely study how to thrive; that having <stage>Chorus.</stage> got a mighty mass, I might bribe the Fates to let me pass: But since we cann't prolong our years, But since we cann't prolong our years, why spend we time in needless griefs and fears? For since Destinie has decree'd, de- why spend we time in needless griefs and fears? For since Destinie has de<g ref="char:EOLhyphen"/>cree'd us to die, and all must pass over the Ferry, hang Riches and Cares, since we han't many years, cree'd us to die, and all must pass over the Ferry, hang Riches and Cares, since we han't many years, Let's have a short life and a merry. Let's have a short life and a merry.</p>
+            <lg>
+               <pb n="61" facs="tcp:199495:34"/>
+               <l>Times keep their round, and Destinie</l>
+               <l>Observes not whe'r we laugh or crie;</l>
+               <l>And Fortune never does bestow</l>
+               <l>A look on what we do below:</l>
+               <l>But men with equal labour run,</l>
+               <l>Either t'enrich themselves, or be undon.</l>
+               <l>Since we can take no course</l>
+               <l>To be better or worse,</l>
+               <l>Let none be a melancholly thinker;</l>
+               <l>Let the times their round go,</l>
+               <l>So the Cups do so too,</l>
+               <l>Never blush at the name of a Drinker.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <head>Musick being heard in the dead Season of the Night.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">O</seg>
+               <hi>Stella,</hi> heark; How sweetly doth the sound of Musick in our Ears resound? how 'tis advanced by the Night, whose silence adds unto delight? Our senses dead as Night are by the vertue of its Harmony stir'd, and reviv'd; who frisk and play like wanton Kids in th' dawn of day; one Voyce doth now more comfort bring, then the whole Quire of Birds in th' Spring; it comes to visit us, like that rare thing in man so wondred at. Friendship, to set our Spirits free, when thrall'd in Fortunes Slaverie. </p>
+         </div>
+         <div type="song">
+            <pb n="62" facs="tcp:199495:35"/>
+            <head>A Dialogue between <hi>Castadorus</hi> and <hi>Arabella.</hi>
+            </head>
+            <sp>
+               <speaker>Arabella.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">D</seg>Ear <hi>Castadorus,</hi> let me rise, <hi>Aurora</hi> 'gins to jeer me; and tells me I do wantonize.</p>
+            </sp>
+            <sp>
+               <speaker>Castador.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I prethee Sweet lie neer me: Let Red <hi>Aurora</hi> smile my Dear, and <hi>Phebus</hi> laughing follow; thou onely art <hi>Au╌ro╌ra</hi> here, let me be thy <hi>Apollo:</hi> It is to envy at our bliss, that they do rise before us; Is their such hurt in this, or this.</p>
+            </sp>
+            <sp>
+               <speaker>Arabella.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Nay fye, why <hi>Casta╌do╌rus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Castador.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> What <hi>Arabella,</hi> can one night of Loving dallying tire you? I could lye ever if I might, one hour let me desire you.</p>
+            </sp>
+            <sp>
+               <speaker>Arabella.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Nay, Fie; You hurt me, let me go, if you so roughly use me, what can I
+<pb n="63" facs="tcp:199495:35"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> say or think of you?</p>
+            </sp>
+            <sp>
+               <speaker>Castador.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I prethee Sweet excuse me; thy Beauty and my Love defend, I should ungently move thee, 'tis kisses Sweet that I intend; Is it not I that Love thee?</p>
+            </sp>
+            <sp>
+               <speaker>Arabella.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I do confess it is, but then since you do so importune, that I should once lie down again, vouchsafe to draw the Curtain.</p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Aurora</hi> and <hi>A╌pol╌lo</hi> too may visit, may vi╌sit silent Fields; by our con╌sent <hi>Aurora</hi> and <hi>A╌pol╌lo</hi> too may vi╌sit silent Fields; by our con- they ne'r shall know what bliss our pleasure yields. sent they ne'r shall know what bliss our pleasure yields.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="64" facs="tcp:199495:36"/>
+            <head>A Pastoral Dialogue.</head>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">F</seg>Ly, Fly good <hi>Shepherd,</hi> hast away, the Wood's beset; come take this way, lest that thou lose that Life which I could dye for so contentedly.</p>
+            </sp>
+            <sp>
+               <speaker>Shepherd.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! no, oh! no, my Dear I cannot Fly.</p>
+            </sp>
+            <sp>
+               <speaker>Nimph.</speaker>
+               <p>Then I perceive 'tis I must dye.</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Wrong not my Courage, nor my Love, nor let thy Fears my Ruine prove. Ile not depart, though for it I do soundly smart. </p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Prethee begone, here comes in arms a mighty throng.</p>
+            </sp>
+            <sp>
+               <speaker>Shepherd.</speaker>
+               <p>What's that to mee.</p>
+            </sp>
+            <sp>
+               <speaker>Nimph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! lovely </p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Shepherd prethee flee. Sing first a song; and then perchance I may begone.</p>
+            </sp>
+            <sp>
+               <speaker>Nimph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> What shall it be? </p>
+            </sp>
+            <sp>
+               <pb n="65" facs="tcp:199495:36"/>
+               <speaker>Shepherd.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> What ever't be best pleaseth thee.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Be not so fond, but hast away, for if thou stay, thou needs must die; it boots thee not to make delay, and if thou love me quickly flie. </p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then shall we find hereafter, hereafter when once met, joys that are lasting, joys that are Then shall we find hereafter, hereafter when once met, joys that are lasting, lasting, and hugely full, not Counterfeit. lasting, and hugely full, not Counterfeit.</p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="66" facs="tcp:199495:37"/>
+            <head>A Dialogue between <hi>Thirsis</hi> and <hi>Dorinda.</hi>
+            </head>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>Hen death shall part us from these Kids, and shut up our devided Lids; tell me <hi>Thirsis,</hi> prethee do, whether thou &amp; I shall go?</p>
+            </sp>
+            <sp>
+               <speaker>Thirsis.</speaker>
+               <p>To the E╌li╌zi╌um.</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! where i'st?</p>
+            </sp>
+            <sp>
+               <speaker>Thirsis.</speaker>
+               <p>A chast Soul can never miss't.</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I know no way but one, our home: Is our Cell E╌li╌zi╌u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sis.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Turn thine Eye to yonder sky, there the milky way doth lye, 'tis a<g ref="char:EOLhyphen"/>sure but rugged way, that leads to everlasting day: There Birds may nest.</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But how shall I, that have no wings and cannot fly?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Thirs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Do not sigh, fair Nymph, for
+<pb n="67" facs="tcp:199495:37"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fire, hath no wings but doth aspire; tell it hit against the pole, Heave<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Center of the Soul.</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>But in E╌li╌zi╌um, how do they pass eternity away?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sis.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Oh! there is neither hope nor fear, there is no Woolf, nor Fox, nor Bear; no need of Dog to fetch our stray, our Lightfoot we may give away: No Oatepipes needful, there thy Eares may sleep with Musick, with Musick, Musick of the Spheres.</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> O Sweet! O Sweet! how I my future State, by silent thinking, silent thinking antedate: I prethee let us spend our
+<pb n="68" facs="tcp:199495:38"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> time to come, in talking of Eli╌zi╌um.</p>
+            </sp>
+            <sp>
+               <speaker>Thirsis.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then I'le go on; There Sheep are full of sweetest grass, and softest wool; there Birds sing consort, Garlands grow, cool winds do whisper, Springs do flow; there alwayes is a rising Sun, and day is ever but begun: Shepherds there bear equal sway, and every Nymph a Queen of <hi>May.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>Ah! me.</p>
+            </sp>
+            <sp>
+               <speaker>Thirsis.</speaker>
+               <p>
+                  <hi>Dorinda,</hi> why dost cry?</p>
+            </sp>
+            <sp>
+               <speaker>Dorinda.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I'm Sick, I'm Sick, and fain would die; convince me now that this is true, by bidding with me all adieu.</p>
+            </sp>
+            <sp>
+               <speaker>Thirsis.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I cannot live without thee, I; I'le for thee, much more with thee die. </p>
+            </sp>
+            <sp>
+               <pb n="69" facs="tcp:199495:38"/>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then let us give <hi>Corilla</hi> charge, <hi>Corilla</hi> charge oth' Sheep, and thou and I Then let us give <hi>Corilla</hi> charge, <hi>Corilla</hi> charge oth' Sheep, and thou and I and thou and thou and I'le pick Poppies, Poppies, and them steep them steep in I'le pick Poppies, I'le pick Poppies, Poppies, and them steep them steep in Wine them steep in Wine, and drink on't, and drink on't even till we weep; so shall we pass, Wine, and drink on't and drink on't even till we weep; so shall we shall we pass away, so shall we pass away in a sleep. pass shall we pass away, so shall we pass away in a sleep. </p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="70" facs="tcp:199495:39"/>
+            <head>A Dialogue between a <hi>Shepherd</hi> and a <hi>Nymph.</hi>
+            </head>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">W</seg>Hat busie Cares too timely born (young Swain) disturb thy sleep? Thy early Sighs awake the Morn, thy Tears teach her to weep.</p>
+            </sp>
+            <sp>
+               <speaker>Shep</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Sorrows, fair <hi>Nymph,</hi> are full alone, nor Counsel can endure.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Yet thine disclose, for until known, sickness admits no Cure.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> My Griefs are such as but to hear, would poyson all thy Joys; thy Pity which thou seemst to bear my Health, thine owne destroys.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> How can diseased Mindes in╌fect? say what thy Grief doth move.</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Call up thy virtue to protect thy Heart &amp; know 'twas Love. </p>
+            </sp>
+            <sp>
+               <pb n="71" facs="tcp:199495:39"/>
+               <speaker>
+                  <hi>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mph.</hi>
+               </speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fond Swain.</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>By which I have been long destin'd to meet with Fate.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Fie <hi>Shepherd</hi> fie, thou dost love wrong to call thy Crime thy Fate.</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Alass! what cunning could de<g ref="char:EOLhyphen"/>cline, what Force can Love repell?</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>Yes, there's a way to unconfine thy Heart.</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> For pity tell.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Choose one whose love may be allur'd by thine: Who ever knew invete<g ref="char:EOLhyphen"/>rate diseases cur'd but by receiving new?</p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>All will like her my soul perplex.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Yet try. </p>
+            </sp>
+            <sp>
+               <speaker>Shep.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> O! could there be but any softness in that Sex, I'd wish it were in thee.</p>
+            </sp>
+            <sp>
+               <speaker>Nymph.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Thy prayer is hear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="72" facs="tcp:199495:40"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Learn now t' steem the kindness She hath shown, who thy lost freedome to redeem hath forfei<g ref="char:EOLhyphen"/>ted her own.</p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Then to some shade we will remove, let <hi>Pan</hi> and <hi>Pales Pan</hi> and Then to some shade we will remove, let <hi>Pan</hi> and <hi>Pales Pan</hi> and <hi>Pales</hi> keep our Orphan sheep, whilest we perform, whilest we perform the <hi>Pales</hi> keep our Orphan sheep, whilest we perform whilest we perform the rites of Love. rites of Love. </p>
+            </sp>
+         </div>
+         <div type="song">
+            <pb n="73" facs="tcp:199495:40"/>
+            <head>The contented Batchelor.</head>
+            <div n="1" type="verse">
+               <div type="part">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">R</seg>Ose-buds that's gather'd in the Spring, can't be preserv'd from dying, and though you'enjoy the wisht for thing, the pleasure will be flying; The glorious Lamp that mounteth high, and to his Noon arriving, must not stay there con╌tinually, but downwards must be driving. </p>
+               </div>
+               <div type="part">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">R</seg>Ose buds that's gather'd in the Spring, can't be preserv'd from dying, and though you 'enjoy the wisht for thing, the pleasure will be flying; The glorious Lamp that mounteth high, and to his Noon ariving, must not stay there continually, but downwards must be driving.</p>
+               </div>
+               <div type="part">
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">R</seg>Ose buds that's gather'd in the Spring, can't be preserv'd from dying, and though you'n<g ref="char:EOLhyphen"/>joy the wisht for thing, the pleasure will be flying; The glorious Lamp that mounteth high, and to his Noon ariving, must not stay there continually, but downwards must be driving.</p>
+               </div>
+            </div>
+            <div n="2" type="verse">
+               <lg>
+                  <l>The last is best, for though that time</l>
+                  <l>With Age and Sickness seise us;</l>
+                  <l>Yet on our Crutches do we climbe</l>
+                  <l>Untill a light shall ease us:</l>
+                  <l>Then though I may, yet will I not</l>
+                  <l>Possess me of 't, but tarry;</l>
+                  <l>He lives the best that hath forgot,</l>
+                  <l>What means the word Go Marry.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="song">
+            <pb n="74-75" facs="tcp:199495:41"/>
+            <head>Bushels Myners.</head>
+            <div type="part">
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">Y</seg>Ou Ladies of our Nation where is your greatness gone? what sudden alteration hath forc'd you from your own? whilst we live here obscurely, in Cottages unknown, no Cares or Fears we ever think upon. </p>
+               <lg>
+                  <l>Our Walls are higest Mountains,</l>
+                  <l>For we live in a Comb;</l>
+                  <l>We drink of Flowing Fountains,</l>
+                  <l>Out dwelling is our Tomb:</l>
+                  <l>Nor look to be expected before the day of Doom,</l>
+                  <l>Where Scribes for bribes shall ne'r deny us Room.</l>
+               </lg>
+               <lg>
+                  <l>We have a dreadful summons</l>
+                  <l>Up in the high Countrie;</l>
+                  <l>Our gracious King and Commons,</l>
+                  <l>They say cannot agree:</l>
+                  <l>This harness is for Cedars, and no such shrubs as we,</l>
+                  <l>Yet still we will pray for a unitie.</l>
+               </lg>
+               <lg>
+                  <l>The day we spend in working,</l>
+                  <l>And chanting harmless Songs;</l>
+                  <l>No mallice here lies lurking,</l>
+                  <l>Our thoughts are free from wrongs:</l>
+                  <l>
+                     <hi>And those that civil War do love, we wish they had no tongues,</hi>
+                  </l>
+                  <l>No Drums no Guns, nor what to War belongs.</l>
+               </lg>
+               <lg>
+                  <l>We wound the Earths hard Bowels,</l>
+                  <l>Where hidden treasure grows;</l>
+                  <l>With Twibil, Sledge and Trowels,</l>
+                  <l>Pick-Axe and Iron-Crowes:</l>
+                  <l>
+                     <hi>We search for sinful Silver, that all dissention sowes,</hi>
+                  </l>
+                  <l>Their health and wealth, men do so ill dispose.</l>
+               </lg>
+               <lg>
+                  <l>We eat the Bread of Labour,</l>
+                  <l>And what endeavours brings;</l>
+                  <l>Sorrow is no next Neighbour,</l>
+                  <l>Our Eyes they are no Springs,</l>
+                  <l>Unless we shed a Tear or two, when as we pity Kings;</l>
+                  <l>The Fates of States to us are Hebrew things.</l>
+               </lg>
+            </div>
+            <div n="tenor" type="part">
+               <head>Tenor.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">Y</seg>Ou Ladies of our Nation, where is your greatness gone? what sudden alteration hath forc'd you from your own? whilst we live here obscurely, in Cottages unknown, no Cares or Fears we ever think upon.</p>
+               <lg>
+                  <l>Our Walls are highest Mountains,</l>
+                  <l>For we live in a Comb;</l>
+                  <l>We drink of Flowing Fountains,</l>
+                  <l>Our dwelling is our Tomb:</l>
+                  <l>Nor look to be expected before the day of Doom,</l>
+                  <l>Where Scribes for bribes shall ne'r deny us Room.</l>
+               </lg>
+               <lg>
+                  <l>We have a dreadful summons</l>
+                  <l>Up in the high Countrie;</l>
+                  <l>Our gracious King and Commons,</l>
+                  <l>They say cannot agree:</l>
+                  <l>This harness is for Cedars, and no such shrubs as we,</l>
+                  <l>Yet still we will pray for a unitie.</l>
+               </lg>
+               <lg>
+                  <l>The day we spend in working,</l>
+                  <l>And chanting harmless Songs;</l>
+                  <l>No mallice here lies lurking,</l>
+                  <l>Our thoughts are free from wrongs:</l>
+                  <l>
+                     <hi>And those that civil War do love, we wish they had no Tongues,</hi>
+                  </l>
+                  <l>No Drums no Guns, nor what to War belongs.</l>
+               </lg>
+               <lg>
+                  <l>We wound the Earths hard Bowels,</l>
+                  <l>Where hidden treasure grows;</l>
+                  <l>With Twibil, Sledge and Trowels,</l>
+                  <l>Pick-Axe and Iron-Crowes:</l>
+                  <l>
+                     <hi>We search for sinful Silver, that all dissention sowes,</hi>
+                  </l>
+                  <l>Their health and wealth men do so ill dispose.</l>
+               </lg>
+               <lg>
+                  <l>We eat the Bread of Labour,</l>
+                  <l>And what endeavours brings;</l>
+                  <l>Sorrow is no next Neighbour,</l>
+                  <l>Our Eyes they are no Springs,</l>
+                  <l>Unless we shed a Tear or two, when as we pity Kings;</l>
+                  <l>The Fates of States to us are Hebrew things.</l>
+               </lg>
+            </div>
+            <div n="bass" type="part">
+               <head>Bassus.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">Y</seg>Ou Ladies of our Nation, where is your greatness gone? what sudden alteration hath forc'd you from your own? whilst we live here obscurely, in Cottages unknown, no Cares or Fears we ever think upon.</p>
+               <lg>
+                  <l>Our Walls are highest Mountains,</l>
+                  <l>For we live in a Comb;</l>
+                  <l>We drink of Flowing Fountains,</l>
+                  <l>Our dwelling is our Tomb:</l>
+                  <l>Nor look to be expected before the day of Doom,</l>
+                  <l>Where Scribes for bribes shall ne'r deny us Room.</l>
+               </lg>
+               <lg>
+                  <l>We have a dreadful summons</l>
+                  <l>Up in the high Countrie;</l>
+                  <l>Our gracious King and Commons,</l>
+                  <l>They say cannot agree:</l>
+                  <l>This harness is for Cedars, and no such shrubs as we,</l>
+                  <l>Yet still we will pray for a unitie.</l>
+               </lg>
+               <lg>
+                  <l>The day we spend in working,</l>
+                  <l>And chanting harmless Songs;</l>
+                  <l>No mallice here lies lurking,</l>
+                  <l>Our thoughts are free from wrongs:</l>
+                  <l>
+                     <hi>And those that civil War do love, we wish they had no Tongues,</hi>
+                  </l>
+                  <l>No Drums no Guns, or what to War belongs.</l>
+               </lg>
+               <lg>
+                  <l>We wound the Earths hard Bowels,</l>
+                  <l>Where hidden treasure growes;</l>
+                  <l>With Twibil, Sledge and Trowels,</l>
+                  <l>Pick-Axe and Iron-Crowes.</l>
+                  <l>
+                     <hi>We search for sinful Silver, that all dissention sow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi>
+                  </l>
+                  <l>Their health and wealth men do so ill dispose.</l>
+               </lg>
+               <lg>
+                  <l>We eat the Bread of Labour,</l>
+                  <l>And what endeavours brings,</l>
+                  <l>Sorrow is no next Neighbour,</l>
+                  <l>Our Eyes they are no Springs,</l>
+                  <l>Unless we shed a Tear or two, when as we pity Kings,</l>
+                  <l>The Fates of States to us are Hebrew things.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="song">
+            <pb n="76" facs="tcp:199495:42"/>
+            <head>
+               <hi>Bacchus</hi> true Adorers.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">I</seg>T's the news of the Town, that Healths are put down; Zealots say 'tis for our ease; then tipple like a Sinner, at a Thanks╌giving dinner, who is drunk with what you please: Kind Remembrances now each good Fellow must alow, the Act forbids not drinking, fill the Glass to the brim, and let our Fancies swim, none is excluded thinking: To <hi>Bacchus</hi> Rites we'l pay, and on his Altar lay, both Fat Zeal, and Goats, and Swine; then his Phrygian Horne, which Teaching Brothers scorn, in our thought shall be sublime. </p>
+            <pb n="77" facs="tcp:199495:42"/>
+            <p>
+               <label>Chorus.</label>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Let <hi>Anachrions</hi> Boul be full, we have and fill <hi>Ben. Johnson</hi>'s Scul; we have Who approv'd of <hi>Apollo</hi>'s Wine, we have liberty to drink, to nod, or to mine, we have liberty to drink, wink, to thine, we have liberty to drink, or think, to his, we have liberty, to drink to nod, wink or think, to his, to thine, or to mine. liberty, to drink to nod, wink or think, to his, to thine, or to mine. liberty, to drink to nod, wink or think, to his, to thine, or to mine.</p>
+         </div>
+         <div type="song">
+            <pb n="78" facs="tcp:199495:43"/>
+            <head>An EPITHALAMIUM On the Nuptials of THOMAS STANLEY Esquire; And the Lady DOROTHY ENION.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">S</seg>O (at the first) the Soul and Body met, when the Creator did in Counsel set, to make a little world command the great; nor are your flames less innocent then they, before the Grand Imposter did betray their fatal freedome to the worlds decay: Therefore let all that Heaven can dispense to Royal Mankind, in the Soul and Sense possess ye
+<pb n="79" facs="tcp:199495:43"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> with Seraphick Influence: May all the promised blessings on each Nation, From <hi>Genesis</hi> to <hi>John</hi>'s high <hi>Revelation,</hi> contribute to your Cordial Coronation: May both your Brows be circled with such Beams of Glory as appear'd in <hi>Jacob</hi>'s Dreams, or the Dove darted upon <hi>Jordan</hi>'s Streams: May Lovers light their Torches at your Flame, and may the power of <hi>Stanley</hi>'s Single Name prove the sublimest Epithet of Fame. </p>
+            <pb n="80" facs="tcp:199495:44"/>
+            <p>
+               <label>Chorus.</label>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> May your Hearts fix above the force of Fate, may neither Princes frown nor peoples May your Hearts fix above the force of Fate, may neither Princes frown nor peoples May your Hearts fix above the force of Fate, may neither Princes frown nor peoples hate your fair affections disunanimate; May you have all you can desire, and when your wishes hate your fair affections disunanimate; May you have all you can desire, and when your wishes hate your fair affections disunanimate; May you have all you can desire, and when your wishes have out-vi'd the thoughts of men, some Power direct you how to wish again. have out-vi'd the thoughts of men, some Power direct you how to wish again. have out-vi'd the thoughts of men, some Power direct you how to wish again.</p>
+         </div>
+         <div type="song">
+            <pb n="81" facs="tcp:199495:44"/>
+            <sp>
+               <speaker>Juno.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Ove</hi> sent thee <hi>Paris</hi> what is mine; Be safely bold, and for this Trifle I'le resign a wreath of Gold; Obey then, and command; thou canst not be just to thy self if not to me;</p>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Twice happy in thy choice, be wise, e're thou dispense this
+<pb n="82" facs="tcp:199495:45"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> treasure, give thy reason Eyes, and blind thy sense: Thus Arms and Arts thy humble Name shall raise, alike to wreaths of Oak and Bayes.</p>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She whom all Suppliants else implore, is here made thine, and will for this a gift restore no
+<pb n="83" facs="tcp:199495:45"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> lesse divine, the best of pleasures thus enjoy, and try where Bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty courts, none </p>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Examine Princely Shepherd, here, the offerings which we send thee Examine Princely Shepherd, here, the offerings which we send thee can deny. Examine Princely Shepherd, here, the offerings which we send thee how for that narrow narrow Golden sphere, wealth how for that narrow Golden sphere, Fame how for that narrow Golden sphere,
+<pb n="84" facs="tcp:199495:46"/>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and Love attend thee, and judge by this how large these honnors be, and Love attend thee, and judge by this how large these honnors be, and Love and Love attend thee, and judge by this how large these honnors be, none to each other yield, each other yield, each other yield, yet all to thee. none to each other yield, each other yield, yet all to thee. none to each other yield, yet all to thee. </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:199495:46"/>
+            <head>An Alphabetical Table of all the several AYRES and DIALOGUES contained in this Book.</head>
+            <list>
+               <head>I. Table of Through Set Songs.</head>
+               <item>BEauty and Love once fell at ods <hi>42, 43</hi>
+               </item>
+               <item>Cease warring thoughts <hi>9</hi>
+               </item>
+               <item>Help Love, or else I sink <hi>2</hi>
+               </item>
+               <item>I am no pris'ner sure, nor can it be <hi>6</hi>
+               </item>
+               <item>Love? No. I am not such a Foe <hi>3</hi>
+               </item>
+               <item>Love still a Child a Bee persues <hi>8</hi>
+               </item>
+               <item>O <hi>Cloris!</hi> 'twas unkindly done <hi>5</hi>
+               </item>
+               <item>Short as this Hour <hi>10</hi>
+               </item>
+               <item>Who would not think these rising Beams <hi>1</hi>
+               </item>
+               <item>
+                  <hi>Ostella,</hi> Heark how sweetly <hi>61</hi>
+               </item>
+            </list>
+            <list>
+               <head>II. Table of Single Songs.</head>
+               <item>As <hi>Plutarch</hi> doth write <hi>30, 31</hi>
+               </item>
+               <item>Believe me Love by those fair eyes <hi>25</hi>
+               </item>
+               <item>Bring us up some Sack <hi>15</hi>
+               </item>
+               <item>Beauty pleaseth most the fancy <hi>44</hi>
+               </item>
+               <item>
+                  <hi>Cloris</hi> forbear a while <hi>12</hi>
+               </item>
+               <item>Come let us drink away the time <hi>46</hi>
+               </item>
+               <item>Disputes daily arise, <hi>41</hi>
+               </item>
+               <item>Have you observ'd the Hermit <hi>13</hi>
+               </item>
+               <item>Hang the Presbyters Gill <hi>28</hi>
+               </item>
+               <item>How Dearest art thou weary of <hi>33</hi>
+               </item>
+               <item>I'le swear they lie, who swear they love <hi>18</hi>
+               </item>
+               <item>I would not wed the creature that desires <hi>34</hi>
+               </item>
+               <item>If thou intend'st only to try <hi>39</hi>
+               </item>
+               <item>Know my dear Idol, <hi>Cloris 14</hi>
+               </item>
+               <item>Know Dearest, 'twas no easie Art <hi>38</hi>
+               </item>
+               <item>Let whyning Lovers magnifie <hi>20</hi>
+               </item>
+               <item>Love, love, I fly thy power and thee <hi>23</hi>
+               </item>
+               <item>Love in disguise the other day <hi>24</hi>
+               </item>
+               <item>Mistake me not, I am not of that mind <hi>17</hi>
+               </item>
+               <item>Nay, prethee, do be coy and slight me <hi>16</hi>
+               </item>
+               <item>Ne'r trouble thyself with the times <hi>32</hi>
+               </item>
+               <item>
+                  <hi>Phelicia</hi> since that I find thee <hi>27</hi>
+               </item>
+               <item>
+                  <hi>Phelinia</hi> wept and from her Eyes <hi>29</hi>
+               </item>
+               <item>The Morning doth wast to the Meddowes <hi>11</hi>
+               </item>
+               <item>Thine Eyes shall be my Stars no more <hi>34</hi>
+               </item>
+               <item>The day that's lost e're scarcely shewn <hi>35</hi>
+               </item>
+               <item>'Tis true I did receive a life from you <hi>36</hi>
+               </item>
+               <item>Unfold thine Arms and let me go <hi>59</hi>
+               </item>
+               <item>Were <hi>Celia</hi> but as chast as fair <hi>70</hi>
+               </item>
+               <item>When first before <hi>Rosella</hi>'s face I lay <hi>19</hi>
+               </item>
+            </list>
+            <list>
+               <head>III. Table of Single Songs.</head>
+               <item>What will become of mee <hi>21</hi>
+               </item>
+               <item>Welcome my Heart thou'st fondly stray'd <hi>22</hi>
+               </item>
+               <item>What a pox dost thou muse on <hi>26</hi>
+               </item>
+               <item>What Creatures on Earth <hi>36</hi>
+               </item>
+               <item>When thou <hi>Ostella</hi> grac'd mee <hi>37</hi>
+               </item>
+               <item>Who can boast a happiness <hi>40</hi>
+               </item>
+               <item>What though I did swear your Eye <hi>40</hi>
+               </item>
+               <item>When the Unfetter'd Subjects of the Seas <hi>45</hi>
+               </item>
+               <item>What end hath desires <hi>47</hi>
+               </item>
+            </list>
+            <list>
+               <head>IV. Table of Songs for Two Voyces, with a Through <hi>Base.</hi>
+               </head>
+               <item>Joyn thy enamel'd Cheek to mine <hi>48, 49</hi>
+               </item>
+               <item>If Wealth could keep a Man alive <hi>60</hi>
+               </item>
+               <item>There's no Man so worthy of Envy <hi>50, 51</hi>
+               </item>
+               <item>Why art thou sad Our Glasses flow <hi>58, 59</hi>
+               </item>
+            </list>
+            <list>
+               <head>V. Table of <hi>Dialogues</hi> for Two Voyces, with a Through <hi>Base.</hi>
+               </head>
+               <item>Come ye Graces come away <hi>56, 57</hi>
+               </item>
+               <item>Dear <hi>Castadoris</hi> let me rise <hi>62, 63</hi>
+               </item>
+               <item>Fly, fly, good Shepherd hast away <hi>64, 65</hi>
+               </item>
+               <item>Tell me <hi>Alexis</hi> what this parting is <hi>53, 54, 55, 56</hi>
+               </item>
+               <item>You have forgot then <hi>Doris</hi> your protest <hi>52</hi>
+               </item>
+               <item>When Death shall part us from their Kidds <hi>66, 67, 68, 69.</hi>
+               </item>
+               <item>What Busy Cares untimely-borne <hi>60</hi>
+               </item>
+            </list>
+            <list>
+               <head>VI. Table of Songs for Three Voyces, with a Through <hi>Base.</hi>
+               </head>
+               <item>It's the News of the Town <hi>63</hi>
+               </item>
+               <item>
+                  <hi>Jove</hi> sent thee <hi>Paris</hi> what is mine <hi>65</hi>
+               </item>
+               <item>Rose-buds that's gather'd in the Spring <hi>61</hi>
+               </item>
+               <item>So at the first the Soul and Body met <hi>64</hi>
+               </item>
+               <item>You Ladies of the Nation <hi>62</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
